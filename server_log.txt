@@ -1,0 +1,5231 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:47:46] 
+[13:47:46] Server Plugins
+[13:47:46] --------------
+[13:47:46]  Loaded 0 plugins.
+
+[13:47:46] 
+[13:47:46] Filterscripts
+[13:47:46] ---------------
+[13:47:46]   Loading filterscript 'Meu.amx'...
+[13:47:46]   Unable to load filterscript 'Meu.amx'.
+[13:47:46]   Loading filterscript 'Server.amx'...
+[13:47:46]   Unable to load filterscript 'Server.amx'.
+[13:47:46]   Loading filterscript 'Samp.amx'...
+[13:47:46]   Unable to load filterscript 'Samp.amx'.
+[13:47:46]   Loaded 0 filterscripts.
+
+[13:47:47] Loaded 3 vehicles from: vehicles/trains.txt
+[13:47:47] Loaded 3 vehicles from: vehicles/pilots.txt
+[13:47:47] Loaded 15 vehicles from: vehicles/lv_law.txt
+[13:47:47] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[13:47:47] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[13:47:47] Loaded 38 vehicles from: vehicles/sf_law.txt
+[13:47:47] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[13:47:47] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[13:47:47] Loaded 24 vehicles from: vehicles/ls_law.txt
+[13:47:47] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[13:47:47] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[13:47:47] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[13:47:47] Loaded 71 vehicles from: vehicles/whetstone.txt
+[13:47:47] Loaded 168 vehicles from: vehicles/bone.txt
+[13:47:47] Loaded 61 vehicles from: vehicles/flint.txt
+[13:47:47] Loaded 96 vehicles from: vehicles/tierra.txt
+[13:47:47] Loaded 96 vehicles from: vehicles/red_county.txt
+[13:47:47] Total vehicles from files: 1781
+[13:47:47] 
+---------------------------------------
+[13:47:47] Running Grand Larceny - by the SA-MP team
+
+[13:47:47] ---------------------------------------
+
+[13:47:47] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:56:00] 
+[09:56:00] Server Plugins
+[09:56:00] --------------
+[09:56:00]  Loaded 0 plugins.
+
+[09:56:00] 
+[09:56:00] Filterscripts
+[09:56:00] ---------------
+[09:56:00]   Loading filterscript 'meuserver.amx'...
+[09:56:00]   Unable to load filterscript 'meuserver.amx'.
+[09:56:00]   Loaded 0 filterscripts.
+
+[09:56:00] Loaded 3 vehicles from: vehicles/trains.txt
+[09:56:00] Loaded 3 vehicles from: vehicles/pilots.txt
+[09:56:00] Loaded 15 vehicles from: vehicles/lv_law.txt
+[09:56:00] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[09:56:00] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[09:56:00] Loaded 38 vehicles from: vehicles/sf_law.txt
+[09:56:00] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[09:56:00] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[09:56:00] Loaded 24 vehicles from: vehicles/ls_law.txt
+[09:56:00] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[09:56:00] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[09:56:00] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[09:56:00] Loaded 71 vehicles from: vehicles/whetstone.txt
+[09:56:00] Loaded 168 vehicles from: vehicles/bone.txt
+[09:56:00] Loaded 61 vehicles from: vehicles/flint.txt
+[09:56:00] Loaded 96 vehicles from: vehicles/tierra.txt
+[09:56:00] Loaded 96 vehicles from: vehicles/red_county.txt
+[09:56:00] Total vehicles from files: 1781
+[09:56:00] 
+---------------------------------------
+[09:56:00] Running Grand Larceny - by the SA-MP team
+
+[09:56:00] ---------------------------------------
+
+[09:56:00] Number of vehicle models: 173
+[10:04:01] [connection] 192.168.0.115:50735 requests connection cookie.
+[10:04:02] [connection] incoming connection: 192.168.0.115:50735 id: 0
+[10:04:02] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[10:06:09] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:13:30] 
+[10:13:30] Server Plugins
+[10:13:30] --------------
+[10:13:30]  Loaded 0 plugins.
+
+[10:13:30] 
+[10:13:30] Filterscripts
+[10:13:30] ---------------
+[10:13:30]   Loading filterscript 'meuserver.amx'...
+[10:13:30]   Unable to load filterscript 'meuserver.amx'.
+[10:13:30]   Loaded 0 filterscripts.
+
+[10:13:30] Loaded 3 vehicles from: vehicles/trains.txt
+[10:13:30] Loaded 3 vehicles from: vehicles/pilots.txt
+[10:13:30] Loaded 15 vehicles from: vehicles/lv_law.txt
+[10:13:30] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[10:13:30] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[10:13:30] Loaded 38 vehicles from: vehicles/sf_law.txt
+[10:13:30] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[10:13:30] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[10:13:30] Loaded 24 vehicles from: vehicles/ls_law.txt
+[10:13:30] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[10:13:30] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[10:13:30] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[10:13:30] Loaded 71 vehicles from: vehicles/whetstone.txt
+[10:13:30] Loaded 168 vehicles from: vehicles/bone.txt
+[10:13:30] Loaded 61 vehicles from: vehicles/flint.txt
+[10:13:30] Loaded 96 vehicles from: vehicles/tierra.txt
+[10:13:30] Loaded 96 vehicles from: vehicles/red_county.txt
+[10:13:30] Total vehicles from files: 1781
+[10:13:30] 
+---------------------------------------
+[10:13:30] Running Grand Larceny - by the SA-MP team
+
+[10:13:30] ---------------------------------------
+
+[10:13:30] Number of vehicle models: 173
+Console input: gnx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:14:07] 
+[10:14:07] Server Plugins
+[10:14:07] --------------
+[10:14:07]  Loaded 0 plugins.
+
+[10:14:07] 
+[10:14:07] Filterscripts
+[10:14:07] ---------------
+[10:14:07]   Loading filterscript 'meuserver.amx'...
+[10:14:07]   Unable to load filterscript 'meuserver.amx'.
+[10:14:07]   Loaded 0 filterscripts.
+
+[10:14:07] Loaded 3 vehicles from: vehicles/trains.txt
+[10:14:07] Loaded 3 vehicles from: vehicles/pilots.txt
+[10:14:07] Loaded 15 vehicles from: vehicles/lv_law.txt
+[10:14:07] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[10:14:07] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[10:14:07] Loaded 38 vehicles from: vehicles/sf_law.txt
+[10:14:07] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[10:14:07] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[10:14:07] Loaded 24 vehicles from: vehicles/ls_law.txt
+[10:14:07] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[10:14:07] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[10:14:07] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[10:14:07] Loaded 71 vehicles from: vehicles/whetstone.txt
+[10:14:07] Loaded 168 vehicles from: vehicles/bone.txt
+[10:14:07] Loaded 61 vehicles from: vehicles/flint.txt
+[10:14:07] Loaded 96 vehicles from: vehicles/tierra.txt
+[10:14:07] Loaded 96 vehicles from: vehicles/red_county.txt
+[10:14:07] Total vehicles from files: 1781
+[10:14:07] 
+---------------------------------------
+[10:14:07] Running Grand Larceny - by the SA-MP team
+
+[10:14:07] ---------------------------------------
+
+[10:14:07] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:14:58] 
+[10:14:58] Server Plugins
+[10:14:58] --------------
+[10:14:58]  Loaded 0 plugins.
+
+[10:14:58] 
+[10:14:58] Filterscripts
+[10:14:58] ---------------
+[10:14:58]   Loading filterscript 'meuserver.amx.amx'...
+[10:14:58]   Unable to load filterscript 'meuserver.amx.amx'.
+[10:14:58]   Loaded 0 filterscripts.
+
+[10:14:58] Loaded 3 vehicles from: vehicles/trains.txt
+[10:14:58] Loaded 3 vehicles from: vehicles/pilots.txt
+[10:14:58] Loaded 15 vehicles from: vehicles/lv_law.txt
+[10:14:58] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[10:14:58] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[10:14:58] Loaded 38 vehicles from: vehicles/sf_law.txt
+[10:14:58] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[10:14:58] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[10:14:58] Loaded 24 vehicles from: vehicles/ls_law.txt
+[10:14:58] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[10:14:58] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[10:14:58] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[10:14:58] Loaded 71 vehicles from: vehicles/whetstone.txt
+[10:14:58] Loaded 168 vehicles from: vehicles/bone.txt
+[10:14:58] Loaded 61 vehicles from: vehicles/flint.txt
+[10:14:58] Loaded 96 vehicles from: vehicles/tierra.txt
+[10:14:58] Loaded 96 vehicles from: vehicles/red_county.txt
+[10:14:58] Total vehicles from files: 1781
+[10:14:58] 
+---------------------------------------
+[10:14:58] Running Grand Larceny - by the SA-MP team
+
+[10:14:58] ---------------------------------------
+
+[10:14:58] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:15:13] 
+[10:15:13] Server Plugins
+[10:15:13] --------------
+[10:15:13]  Loaded 0 plugins.
+
+[10:15:13] 
+[10:15:13] Filterscripts
+[10:15:13] ---------------
+[10:15:13]   Loading filterscript 'meuserver.amx.amx'...
+[10:15:13]   Unable to load filterscript 'meuserver.amx.amx'.
+[10:15:13]   Loaded 0 filterscripts.
+
+[10:15:13] Loaded 3 vehicles from: vehicles/trains.txt
+[10:15:13] Loaded 3 vehicles from: vehicles/pilots.txt
+[10:15:13] Loaded 15 vehicles from: vehicles/lv_law.txt
+[10:15:13] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[10:15:13] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[10:15:13] Loaded 38 vehicles from: vehicles/sf_law.txt
+[10:15:13] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[10:15:13] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[10:15:13] Loaded 24 vehicles from: vehicles/ls_law.txt
+[10:15:13] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[10:15:13] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[10:15:13] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[10:15:13] Loaded 71 vehicles from: vehicles/whetstone.txt
+[10:15:13] Loaded 168 vehicles from: vehicles/bone.txt
+[10:15:13] Loaded 61 vehicles from: vehicles/flint.txt
+[10:15:13] Loaded 96 vehicles from: vehicles/tierra.txt
+[10:15:13] Loaded 96 vehicles from: vehicles/red_county.txt
+[10:15:13] Total vehicles from files: 1781
+[10:15:13] 
+---------------------------------------
+[10:15:13] Running Grand Larceny - by the SA-MP team
+
+[10:15:13] ---------------------------------------
+
+[10:15:13] Number of vehicle models: 173
+Console input: gtx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:21:12] 
+[10:21:12] Server Plugins
+[10:21:12] --------------
+[10:21:12]  Loaded 0 plugins.
+
+[10:21:12] 
+[10:21:12] Filterscripts
+[10:21:12] ---------------
+[10:21:12]   Loading filterscript 'meuserver.amx.amx'...
+[10:21:12]   Unable to load filterscript 'meuserver.amx.amx'.
+[10:21:12]   Loaded 0 filterscripts.
+
+[10:21:12] Loaded 3 vehicles from: vehicles/trains.txt
+[10:21:12] Loaded 3 vehicles from: vehicles/pilots.txt
+[10:21:12] Loaded 15 vehicles from: vehicles/lv_law.txt
+[10:21:12] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[10:21:12] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[10:21:12] Loaded 38 vehicles from: vehicles/sf_law.txt
+[10:21:12] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[10:21:12] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[10:21:12] Loaded 24 vehicles from: vehicles/ls_law.txt
+[10:21:12] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[10:21:12] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[10:21:12] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[10:21:12] Loaded 71 vehicles from: vehicles/whetstone.txt
+[10:21:12] Loaded 168 vehicles from: vehicles/bone.txt
+[10:21:12] Loaded 61 vehicles from: vehicles/flint.txt
+[10:21:12] Loaded 96 vehicles from: vehicles/tierra.txt
+[10:21:12] Loaded 96 vehicles from: vehicles/red_county.txt
+[10:21:12] Total vehicles from files: 1781
+[10:21:12] 
+---------------------------------------
+[10:21:12] Running Grand Larceny - by the SA-MP team
+
+[10:21:12] ---------------------------------------
+
+[10:21:12] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:21:39] 
+[10:21:39] Server Plugins
+[10:21:39] --------------
+[10:21:39]  Loaded 0 plugins.
+
+[10:21:39] 
+[10:21:39] Filterscripts
+[10:21:39] ---------------
+[10:21:39]   Loading filterscript 'meuserver.amx.amx'...
+[10:21:39]   Unable to load filterscript 'meuserver.amx.amx'.
+[10:21:39]   Loaded 0 filterscripts.
+
+[10:21:39] Loaded 3 vehicles from: vehicles/trains.txt
+[10:21:39] Loaded 3 vehicles from: vehicles/pilots.txt
+[10:21:39] Loaded 15 vehicles from: vehicles/lv_law.txt
+[10:21:39] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[10:21:39] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[10:21:39] Loaded 38 vehicles from: vehicles/sf_law.txt
+[10:21:39] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[10:21:39] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[10:21:39] Loaded 24 vehicles from: vehicles/ls_law.txt
+[10:21:39] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[10:21:39] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[10:21:39] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[10:21:39] Loaded 71 vehicles from: vehicles/whetstone.txt
+[10:21:39] Loaded 168 vehicles from: vehicles/bone.txt
+[10:21:39] Loaded 61 vehicles from: vehicles/flint.txt
+[10:21:39] Loaded 96 vehicles from: vehicles/tierra.txt
+[10:21:39] Loaded 96 vehicles from: vehicles/red_county.txt
+[10:21:39] Total vehicles from files: 1781
+[10:21:39] 
+---------------------------------------
+[10:21:39] Running Grand Larceny - by the SA-MP team
+
+[10:21:39] ---------------------------------------
+
+[10:21:39] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:22:06] 
+[10:22:06] Server Plugins
+[10:22:06] --------------
+[10:22:06]  Loaded 0 plugins.
+
+[10:22:06] 
+[10:22:06] Filterscripts
+[10:22:07] ---------------
+[10:22:07]   Loading filterscript 'meuserver.amx'...
+[10:22:07]   Unable to load filterscript 'meuserver.amx'.
+[10:22:07]   Loaded 0 filterscripts.
+
+[10:22:07] Loaded 3 vehicles from: vehicles/trains.txt
+[10:22:07] Loaded 3 vehicles from: vehicles/pilots.txt
+[10:22:07] Loaded 15 vehicles from: vehicles/lv_law.txt
+[10:22:07] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[10:22:07] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[10:22:07] Loaded 38 vehicles from: vehicles/sf_law.txt
+[10:22:07] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[10:22:07] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[10:22:07] Loaded 24 vehicles from: vehicles/ls_law.txt
+[10:22:07] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[10:22:07] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[10:22:07] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[10:22:07] Loaded 71 vehicles from: vehicles/whetstone.txt
+[10:22:07] Loaded 168 vehicles from: vehicles/bone.txt
+[10:22:07] Loaded 61 vehicles from: vehicles/flint.txt
+[10:22:07] Loaded 96 vehicles from: vehicles/tierra.txt
+[10:22:07] Loaded 96 vehicles from: vehicles/red_county.txt
+[10:22:07] Total vehicles from files: 1781
+[10:22:07] 
+---------------------------------------
+[10:22:07] Running Grand Larceny - by the SA-MP team
+
+[10:22:07] ---------------------------------------
+
+[10:22:07] Number of vehicle models: 173
+[10:24:50] [connection] 192.168.0.115:63333 requests connection cookie.
+[10:24:51] [connection] incoming connection: 192.168.0.115:63333 id: 0
+[10:24:51] [join] diogodeas1 has joined the server (0:192.168.0.115)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:38:48] 
+[10:38:48] Server Plugins
+[10:38:48] --------------
+[10:38:48]  Loaded 0 plugins.
+
+[10:38:48] 
+[10:38:48] Filterscripts
+[10:38:48] ---------------
+[10:38:48]   Loading filterscript 'meuserver.amx'...
+[10:38:48]   Unable to load filterscript 'meuserver.amx'.
+[10:38:48]   Loaded 0 filterscripts.
+
+[10:38:48] Loaded 3 vehicles from: vehicles/trains.txt
+[10:38:48] Loaded 3 vehicles from: vehicles/pilots.txt
+[10:38:48] Loaded 15 vehicles from: vehicles/lv_law.txt
+[10:38:48] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[10:38:48] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[10:38:48] Loaded 38 vehicles from: vehicles/sf_law.txt
+[10:38:48] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[10:38:48] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[10:38:48] Loaded 24 vehicles from: vehicles/ls_law.txt
+[10:38:48] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[10:38:48] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[10:38:48] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[10:38:48] Loaded 71 vehicles from: vehicles/whetstone.txt
+[10:38:48] Loaded 168 vehicles from: vehicles/bone.txt
+[10:38:48] Loaded 61 vehicles from: vehicles/flint.txt
+[10:38:48] Loaded 96 vehicles from: vehicles/tierra.txt
+[10:38:48] Loaded 96 vehicles from: vehicles/red_county.txt
+[10:38:48] Total vehicles from files: 1781
+[10:38:48] 
+---------------------------------------
+[10:38:48] Running Grand Larceny - by the SA-MP team
+
+[10:38:48] ---------------------------------------
+
+[10:38:48] Number of vehicle models: 173
+[12:52:16] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:52:32] 
+[12:52:32] Server Plugins
+[12:52:32] --------------
+[12:52:32]  Loaded 0 plugins.
+
+[12:52:32] 
+[12:52:32] Filterscripts
+[12:52:32] ---------------
+[12:52:32]   Loading filterscript 'Meu.amx'...
+[12:52:32]   Unable to load filterscript 'Meu.amx'.
+[12:52:32]   Loading filterscript 'Server.amx'...
+[12:52:32]   Unable to load filterscript 'Server.amx'.
+[12:52:32]   Loading filterscript 'SAMP.amx'...
+[12:52:32]   Unable to load filterscript 'SAMP.amx'.
+[12:52:32]   Loaded 0 filterscripts.
+
+[12:52:32]  Hello World! 
+[12:52:32] Number of vehicle models: 0
+[12:53:02] [connection] 192.168.0.115:53929 requests connection cookie.
+[12:53:03] [connection] incoming connection: 192.168.0.115:53929 id: 0
+[12:53:03] [join] diogodeas1 has joined the server (0:192.168.0.115)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:44:11] 
+[18:44:11] Server Plugins
+[18:44:11] --------------
+[18:44:11]  Loaded 0 plugins.
+
+[18:44:11] 
+[18:44:11] Filterscripts
+[18:44:11] ---------------
+[18:44:11]   Loading filterscript 'Meu.amx'...
+[18:44:11]   Unable to load filterscript 'Meu.amx'.
+[18:44:11]   Loading filterscript 'Server.amx'...
+[18:44:11]   Unable to load filterscript 'Server.amx'.
+[18:44:11]   Loading filterscript 'SAMP.amx'...
+[18:44:11]   Unable to load filterscript 'SAMP.amx'.
+[18:44:11]   Loaded 0 filterscripts.
+
+[18:44:11]  Hello World! 
+[18:44:11] Number of vehicle models: 0
+[18:44:52] [connection] 192.168.0.115:49647 requests connection cookie.
+[18:44:53] [connection] incoming connection: 192.168.0.115:49647 id: 0
+[18:44:53] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[19:17:52] [part] diogodeas1 has left the server (0:1)
+[19:26:40] [connection] 192.168.0.115:51451 requests connection cookie.
+[19:26:41] [connection] incoming connection: 192.168.0.115:51451 id: 0
+[19:26:41] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[19:47:05] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:37] 
+[19:48:37] Server Plugins
+[19:48:37] --------------
+[19:48:37]  Loaded 0 plugins.
+
+[19:48:37] 
+[19:48:37] Filterscripts
+[19:48:37] ---------------
+[19:48:37]   Loading filterscript 'Meu.amx'...
+[19:48:37]   Unable to load filterscript 'Meu.amx'.
+[19:48:37]   Loading filterscript 'Server.amx'...
+[19:48:37]   Unable to load filterscript 'Server.amx'.
+[19:48:37]   Loading filterscript 'SAMP.amx'...
+[19:48:37]   Unable to load filterscript 'SAMP.amx'.
+[19:48:37]   Loaded 0 filterscripts.
+
+[19:48:37]  Hello World! 
+[19:48:37] Number of vehicle models: 0
+[19:49:00] [connection] 192.168.0.115:49656 requests connection cookie.
+[19:49:01] [connection] incoming connection: 192.168.0.115:49656 id: 0
+[19:49:01] [join] diogodeas1 has joined the server (0:192.168.0.115)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:50:59] 
+[19:50:59] Server Plugins
+[19:50:59] --------------
+[19:50:59]  Loaded 0 plugins.
+
+[19:50:59] 
+[19:50:59] Filterscripts
+[19:50:59] ---------------
+[19:50:59]   Loading filterscript 'Meu.amx'...
+[19:50:59]   Unable to load filterscript 'Meu.amx'.
+[19:50:59]   Loading filterscript 'Server.amx'...
+[19:50:59]   Unable to load filterscript 'Server.amx'.
+[19:50:59]   Loading filterscript 'SAMP.amx'...
+[19:50:59]   Unable to load filterscript 'SAMP.amx'.
+[19:50:59]   Loaded 0 filterscripts.
+
+[19:50:59]  Hello World! 
+[19:50:59] Number of vehicle models: 0
+[19:51:36] [connection] 192.168.0.115:56540 requests connection cookie.
+[19:51:37] [connection] incoming connection: 192.168.0.115:56540 id: 0
+[19:51:37] [join] diogodeas1 has joined the server (0:192.168.0.115)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:57:00] 
+[19:57:00] Server Plugins
+[19:57:00] --------------
+[19:57:00]  Loaded 0 plugins.
+
+[19:57:00] 
+[19:57:00] Filterscripts
+[19:57:00] ---------------
+[19:57:00]   Loading filterscript 'Meu.amx'...
+[19:57:00]   Unable to load filterscript 'Meu.amx'.
+[19:57:00]   Loading filterscript 'Server.amx'...
+[19:57:00]   Unable to load filterscript 'Server.amx'.
+[19:57:00]   Loading filterscript 'SAMP.amx'...
+[19:57:00]   Unable to load filterscript 'SAMP.amx'.
+[19:57:00]   Loaded 0 filterscripts.
+
+[19:57:00]  Hello World! 
+[19:57:00] Number of vehicle models: 0
+[19:57:35] [connection] 192.168.0.115:65390 requests connection cookie.
+[19:57:36] [connection] incoming connection: 192.168.0.115:65390 id: 0
+[19:57:36] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[20:00:53] [part] diogodeas1 has left the server (0:1)
+[20:02:11] [connection] 192.168.0.115:59363 requests connection cookie.
+[20:02:12] [connection] incoming connection: 192.168.0.115:59363 id: 0
+[20:02:12] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[20:02:34] [part] diogodeas1 has left the server (0:1)
+[20:03:28] [connection] 192.168.0.115:54637 requests connection cookie.
+[20:03:29] [connection] incoming connection: 192.168.0.115:54637 id: 0
+[20:03:29] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[20:19:20] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:30:13] 
+[14:30:13] Server Plugins
+[14:30:13] --------------
+[14:30:13]  Loaded 0 plugins.
+
+[14:30:13] 
+[14:30:13] Filterscripts
+[14:30:13] ---------------
+[14:30:13]   Loading filterscript 'Meu.amx'...
+[14:30:13]   Unable to load filterscript 'Meu.amx'.
+[14:30:13]   Loading filterscript 'Server.amx'...
+[14:30:13]   Unable to load filterscript 'Server.amx'.
+[14:30:13]   Loading filterscript 'SAMP.amx'...
+[14:30:13]   Unable to load filterscript 'SAMP.amx'.
+[14:30:13]   Loaded 0 filterscripts.
+
+[14:30:13]  Hello World! 
+[14:30:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:32:07] 
+[14:32:07] Server Plugins
+[14:32:07] --------------
+[14:32:07]  Loaded 0 plugins.
+
+[14:32:07] 
+[14:32:07] Filterscripts
+[14:32:07] ---------------
+[14:32:07]   Loading filterscript 'Meu.amx'...
+[14:32:07]   Unable to load filterscript 'Meu.amx'.
+[14:32:07]   Loading filterscript 'Server.amx'...
+[14:32:07]   Unable to load filterscript 'Server.amx'.
+[14:32:07]   Loading filterscript 'SAMP.amx'...
+[14:32:07]   Unable to load filterscript 'SAMP.amx'.
+[14:32:07]   Loaded 0 filterscripts.
+
+[14:32:07]  Hello World! 
+[14:32:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:32:15] 
+[14:32:15] Server Plugins
+[14:32:15] --------------
+[14:32:15]  Loaded 0 plugins.
+
+[14:32:15] 
+[14:32:15] Filterscripts
+[14:32:15] ---------------
+[14:32:15]   Loading filterscript 'Meu.amx'...
+[14:32:15]   Unable to load filterscript 'Meu.amx'.
+[14:32:15]   Loading filterscript 'Server.amx'...
+[14:32:15]   Unable to load filterscript 'Server.amx'.
+[14:32:15]   Loading filterscript 'SAMP.amx'...
+[14:32:15]   Unable to load filterscript 'SAMP.amx'.
+[14:32:15]   Loaded 0 filterscripts.
+
+[14:32:15]  Hello World! 
+[14:32:15] Number of vehicle models: 0
+[14:32:38] [connection] 192.168.0.115:50208 requests connection cookie.
+[14:32:39] [connection] incoming connection: 192.168.0.115:50208 id: 0
+[14:32:40] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[14:35:11] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:37:35] 
+[14:37:35] Server Plugins
+[14:37:35] --------------
+[14:37:35]  Loaded 0 plugins.
+
+[14:37:35] 
+[14:37:35] Filterscripts
+[14:37:35] ---------------
+[14:37:35]   Loading filterscript 'Meu.amx'...
+[14:37:35]   Unable to load filterscript 'Meu.amx'.
+[14:37:35]   Loading filterscript 'Server.amx'...
+[14:37:35]   Unable to load filterscript 'Server.amx'.
+[14:37:35]   Loading filterscript 'SAMP.amx'...
+[14:37:35]   Unable to load filterscript 'SAMP.amx'.
+[14:37:35]   Loaded 0 filterscripts.
+
+[14:37:35]  Hello World! 
+[14:37:35] Number of vehicle models: 0
+[14:37:58] [connection] 192.168.0.115:59671 requests connection cookie.
+[14:37:59] [connection] incoming connection: 192.168.0.115:59671 id: 0
+[14:38:00] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[14:43:17] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:43:53] 
+[14:43:53] Server Plugins
+[14:43:53] --------------
+[14:43:53]  Loaded 0 plugins.
+
+[14:43:53] 
+[14:43:53] Filterscripts
+[14:43:53] ---------------
+[14:43:53]   Loading filterscript 'Meu.amx'...
+[14:43:53]   Unable to load filterscript 'Meu.amx'.
+[14:43:53]   Loading filterscript 'Server.amx'...
+[14:43:53]   Unable to load filterscript 'Server.amx'.
+[14:43:53]   Loading filterscript 'SAMP.amx'...
+[14:43:53]   Unable to load filterscript 'SAMP.amx'.
+[14:43:53]   Loaded 0 filterscripts.
+
+[14:43:53]  Hello World! 
+[14:43:53] Number of vehicle models: 0
+[14:44:27] [connection] 192.168.0.115:57449 requests connection cookie.
+[14:44:28] [connection] incoming connection: 192.168.0.115:57449 id: 0
+[14:44:28] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[15:14:29] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:19:37] 
+[15:19:37] Server Plugins
+[15:19:37] --------------
+[15:19:37]  Loaded 0 plugins.
+
+[15:19:37] 
+[15:19:37] Filterscripts
+[15:19:37] ---------------
+[15:19:37]   Loading filterscript 'Meu.amx'...
+[15:19:37]   Unable to load filterscript 'Meu.amx'.
+[15:19:37]   Loading filterscript 'Server.amx'...
+[15:19:37]   Unable to load filterscript 'Server.amx'.
+[15:19:37]   Loading filterscript 'SAMP.amx'...
+[15:19:37]   Unable to load filterscript 'SAMP.amx'.
+[15:19:37]   Loaded 0 filterscripts.
+
+[15:19:37]  Hello World! 
+[15:19:37] Number of vehicle models: 0
+[15:19:59] [connection] 192.168.0.115:50346 requests connection cookie.
+[15:20:00] [connection] incoming connection: 192.168.0.115:50346 id: 0
+[15:20:01] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[15:20:22] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:21:29] 
+[15:21:29] Server Plugins
+[15:21:29] --------------
+[15:21:29]  Loaded 0 plugins.
+
+[15:21:29] 
+[15:21:29] Filterscripts
+[15:21:29] ---------------
+[15:21:29]   Loading filterscript 'Meu.amx'...
+[15:21:29]   Unable to load filterscript 'Meu.amx'.
+[15:21:29]   Loading filterscript 'Server.amx'...
+[15:21:29]   Unable to load filterscript 'Server.amx'.
+[15:21:29]   Loading filterscript 'SAMP.amx'...
+[15:21:29]   Unable to load filterscript 'SAMP.amx'.
+[15:21:29]   Loaded 0 filterscripts.
+
+[15:21:29]  Ola Mundo 
+[15:21:29] Number of vehicle models: 0
+[15:22:04] [connection] 192.168.0.115:56463 requests connection cookie.
+[15:22:05] [connection] incoming connection: 192.168.0.115:56463 id: 0
+[15:22:06] [join] diogodeas1 has joined the server (0:192.168.0.115)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:22:54] 
+[15:22:54] Server Plugins
+[15:22:54] --------------
+[15:22:54]  Loaded 0 plugins.
+
+[15:22:54] 
+[15:22:54] Filterscripts
+[15:22:54] ---------------
+[15:22:54]   Loading filterscript 'Meu.amx'...
+[15:22:54]   Unable to load filterscript 'Meu.amx'.
+[15:22:54]   Loading filterscript 'Server.amx'...
+[15:22:54]   Unable to load filterscript 'Server.amx'.
+[15:22:54]   Loading filterscript 'SAMP.amx'...
+[15:22:54]   Unable to load filterscript 'SAMP.amx'.
+[15:22:54]   Loaded 0 filterscripts.
+
+[15:22:54]  Ola Mundo 
+[15:22:54] Number of vehicle models: 0
+[15:23:21] [connection] 192.168.0.115:60005 requests connection cookie.
+[15:23:22] [connection] incoming connection: 192.168.0.115:60005 id: 0
+[15:23:22] [join] diogodeas1 has joined the server (0:192.168.0.115)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:24:49] filterscripts = ""  (string)
+[15:24:49] 
+[15:24:49] Server Plugins
+[15:24:49] --------------
+[15:24:49]  Loaded 0 plugins.
+
+[15:24:49] 
+[15:24:49] Filterscripts
+[15:24:49] ---------------
+[15:24:49]   Loaded 0 filterscripts.
+
+[15:24:49]  Ola Mundo 
+[15:24:49] Number of vehicle models: 0
+[15:25:14] [connection] 192.168.0.115:62625 requests connection cookie.
+[15:25:15] [connection] incoming connection: 192.168.0.115:62625 id: 0
+[15:25:15] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[15:35:49] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:36:14] filterscripts = ""  (string)
+[15:36:14] 
+[15:36:14] Server Plugins
+[15:36:14] --------------
+[15:36:14]  Loaded 0 plugins.
+
+[15:36:14] 
+[15:36:14] Filterscripts
+[15:36:14] ---------------
+[15:36:14]   Loaded 0 filterscripts.
+
+[15:36:14]  Ola Mundo 
+[15:36:14] Number of vehicle models: 0
+[15:36:37] [connection] 192.168.0.115:62132 requests connection cookie.
+[15:36:38] [connection] incoming connection: 192.168.0.115:62132 id: 0
+[15:36:38] [join] diogodeas1 has joined the server (0:192.168.0.115)
+[15:39:00] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:28:21] filterscripts = ""  (string)
+[16:28:21] 
+[16:28:21] Server Plugins
+[16:28:21] --------------
+[16:28:21]  Loading plugin: sscanf
+[16:28:21]   Failed.
+[16:28:21]  Loaded 0 plugins.
+
+[16:28:22] 
+[16:28:22] Filterscripts
+[16:28:22] ---------------
+[16:28:22]   Loaded 0 filterscripts.
+
+[16:28:22] Script[gamemodes/meuserver.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[16:28:22] Failed to load 'gamemodes/meuserver.amx' script.
+[16:28:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:32:14] filterscripts = ""  (string)
+[16:32:14] 
+[16:32:14] Server Plugins
+[16:32:14] --------------
+[16:32:14]  Loading plugin: sscanf
+[16:32:14]   Failed.
+[16:32:14]  Loaded 0 plugins.
+
+[16:32:14] 
+[16:32:14] Filterscripts
+[16:32:14] ---------------
+[16:32:14]   Loaded 0 filterscripts.
+
+[16:32:14] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[16:32:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:32:50] filterscripts = ""  (string)
+[16:32:50] 
+[16:32:50] Server Plugins
+[16:32:50] --------------
+[16:32:50]  Loading plugin: sscanf
+[16:32:50]   Failed.
+[16:32:50]  Loaded 0 plugins.
+
+[16:32:50] 
+[16:32:50] Filterscripts
+[16:32:50] ---------------
+[16:32:50]   Loaded 0 filterscripts.
+
+[16:32:50] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[16:32:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:33:10] filterscripts = ""  (string)
+[16:33:10] 
+[16:33:10] Server Plugins
+[16:33:10] --------------
+[16:33:10]  Loading plugin: sscanf
+[16:33:10]   Failed.
+[16:33:10]  Loaded 0 plugins.
+
+[16:33:10] 
+[16:33:10] Filterscripts
+[16:33:10] ---------------
+[16:33:10]   Loaded 0 filterscripts.
+
+[16:33:10] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[16:33:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:33:19] filterscripts = ""  (string)
+[16:33:19] 
+[16:33:19] Server Plugins
+[16:33:19] --------------
+[16:33:19]  Loading plugin: sscanf
+[16:33:19]   Failed.
+[16:33:19]  Loaded 0 plugins.
+
+[16:33:19] 
+[16:33:19] Filterscripts
+[16:33:19] ---------------
+[16:33:19]   Loaded 0 filterscripts.
+
+[16:33:19] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[16:33:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:33:35] filterscripts = ""  (string)
+[16:33:35] 
+[16:33:35] Server Plugins
+[16:33:35] --------------
+[16:33:35]  Loading plugin: sscanf
+[16:33:35]   Failed.
+[16:33:35]  Loaded 0 plugins.
+
+[16:33:35] 
+[16:33:35] Filterscripts
+[16:33:35] ---------------
+[16:33:35]   Loaded 0 filterscripts.
+
+[16:33:35] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[16:33:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:34:22] filterscripts = ""  (string)
+[16:34:22] 
+[16:34:22] Server Plugins
+[16:34:22] --------------
+[16:34:22]  Loading plugin: sscanf
+[16:34:22]   Failed.
+[16:34:22]  Loaded 0 plugins.
+
+[16:34:22] 
+[16:34:22] Filterscripts
+[16:34:22] ---------------
+[16:34:22]   Loaded 0 filterscripts.
+
+[16:34:22] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[16:34:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:35:04] filterscripts = ""  (string)
+[16:35:04] 
+[16:35:04] Server Plugins
+[16:35:04] --------------
+[16:35:04]  Loading plugin: sscanf
+[16:35:04]   Failed.
+[16:35:04]  Loaded 0 plugins.
+
+[16:35:04] 
+[16:35:04] Filterscripts
+[16:35:04] ---------------
+[16:35:04]   Loaded 0 filterscripts.
+
+[16:35:04] Script[gamemodes/exeer1.amx]: Run time error 19: "File or function is not found"
+[16:35:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:35:14] filterscripts = ""  (string)
+[16:35:14] 
+[16:35:14] Server Plugins
+[16:35:14] --------------
+[16:35:14]  Loading plugin: sscanf
+[16:35:14]   Failed.
+[16:35:14]  Loaded 0 plugins.
+
+[16:35:14] 
+[16:35:14] Filterscripts
+[16:35:14] ---------------
+[16:35:14]   Loaded 0 filterscripts.
+
+[16:35:14] Script[gamemodes/exeer1.amx]: Run time error 19: "File or function is not found"
+[16:35:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:38:12] filterscripts = ""  (string)
+[16:38:12] 
+[16:38:12] Server Plugins
+[16:38:12] --------------
+[16:38:12]  Loading plugin: sscanf
+[16:38:12]   Failed.
+[16:38:12]  Loaded 0 plugins.
+
+[16:38:12] 
+[16:38:12] Filterscripts
+[16:38:12] ---------------
+[16:38:12]   Loaded 0 filterscripts.
+
+[16:38:12] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[16:38:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:38:18] filterscripts = ""  (string)
+[16:38:18] 
+[16:38:18] Server Plugins
+[16:38:18] --------------
+[16:38:18]  Loading plugin: sscanf
+[16:38:18]   Failed.
+[16:38:18]  Loaded 0 plugins.
+
+[16:38:18] 
+[16:38:18] Filterscripts
+[16:38:18] ---------------
+[16:38:18]   Loaded 0 filterscripts.
+
+[16:38:18] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[16:38:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:38:46] filterscripts = ""  (string)
+[16:38:46] 
+[16:38:46] Server Plugins
+[16:38:46] --------------
+[16:38:46]  Loading plugin: sscanf
+[16:38:46]   Failed.
+[16:38:46]  Loaded 0 plugins.
+
+[16:38:46] 
+[16:38:46] Filterscripts
+[16:38:46] ---------------
+[16:38:46]   Loaded 0 filterscripts.
+
+[16:38:46] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[16:38:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:39:46] filterscripts = ""  (string)
+[16:39:46] 
+[16:39:46] Server Plugins
+[16:39:46] --------------
+[16:39:46]  Loading plugin: sscanf
+[16:39:46] 
+
+[16:39:46]  ===============================
+
+[16:39:46]       sscanf plugin loaded.     
+
+[16:39:46]          Version:  2.8.3        
+
+[16:39:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:39:46]  ===============================
+
+[16:39:46]   Loaded.
+[16:39:46]  Loaded 1 plugins.
+
+[16:39:46] 
+[16:39:46] Filterscripts
+[16:39:46] ---------------
+[16:39:46]   Loaded 0 filterscripts.
+
+[16:39:46]  Hello World!
+ 
+[16:39:46] Number of vehicle models: 0
+[16:41:20] [connection] 192.168.0.115:51716 requests connection cookie.
+[16:41:21] [connection] incoming connection: 192.168.0.115:51716 id: 0
+[16:41:22] [join] diogodeas1 has joined the server (0:192.168.0.115)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:10:06] filterscripts = ""  (string)
+[12:10:06] 
+[12:10:06] Server Plugins
+[12:10:06] --------------
+[12:10:06]  Loading plugin: sscanf
+[12:10:06] 
+
+[12:10:06]  ===============================
+
+[12:10:06]       sscanf plugin loaded.     
+
+[12:10:06]          Version:  2.8.3        
+
+[12:10:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:10:06]  ===============================
+
+[12:10:06]   Loaded.
+[12:10:06]  Loaded 1 plugins.
+
+[12:10:06] 
+[12:10:06] Filterscripts
+[12:10:06] ---------------
+[12:10:06]   Loaded 0 filterscripts.
+
+[12:10:06]  Hello World!
+ 
+[12:10:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:12:19] filterscripts = ""  (string)
+[12:12:19] 
+[12:12:19] Server Plugins
+[12:12:19] --------------
+[12:12:19]  Loading plugin: sscanf
+[12:12:19] 
+
+[12:12:19]  ===============================
+
+[12:12:19]       sscanf plugin loaded.     
+
+[12:12:19]          Version:  2.8.3        
+
+[12:12:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:12:19]  ===============================
+
+[12:12:19]   Loaded.
+[12:12:19]  Loaded 1 plugins.
+
+[12:12:19] 
+[12:12:19] Filterscripts
+[12:12:19] ---------------
+[12:12:19]   Loaded 0 filterscripts.
+
+[12:12:19]  Hello World!
+ 
+[12:12:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:14:38] filterscripts = ""  (string)
+[15:14:38] 
+[15:14:38] Server Plugins
+[15:14:38] --------------
+[15:14:38]  Loading plugin: sscanf
+[15:14:39] 
+
+[15:14:39]  ===============================
+
+[15:14:39]       sscanf plugin loaded.     
+
+[15:14:39]          Version:  2.8.3        
+
+[15:14:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:14:39]  ===============================
+
+[15:14:39]   Loaded.
+[15:14:39]  Loaded 1 plugins.
+
+[15:14:39] 
+[15:14:39] Filterscripts
+[15:14:39] ---------------
+[15:14:39]   Loaded 0 filterscripts.
+
+[15:14:39] Script[gamemodes/meuserver.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[15:14:39] Failed to load 'gamemodes/meuserver.amx' script.
+[15:14:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:19:04] filterscripts = ""  (string)
+[15:19:04] 
+[15:19:04] Server Plugins
+[15:19:04] --------------
+[15:19:04]  Loading plugin: sscanf
+[15:19:04] 
+
+[15:19:04]  ===============================
+
+[15:19:04]       sscanf plugin loaded.     
+
+[15:19:04]          Version:  2.8.3        
+
+[15:19:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:19:04]  ===============================
+
+[15:19:04]   Loaded.
+[15:19:04]  Loaded 1 plugins.
+
+[15:19:04] 
+[15:19:04] Filterscripts
+[15:19:04] ---------------
+[15:19:04]   Loaded 0 filterscripts.
+
+[15:19:04] Script[gamemodes/meuserver.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[15:19:04] Failed to load 'gamemodes/meuserver.amx' script.
+[15:19:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:19:08] filterscripts = ""  (string)
+[15:19:08] 
+[15:19:08] Server Plugins
+[15:19:08] --------------
+[15:19:08]  Loading plugin: sscanf
+[15:19:08] 
+
+[15:19:08]  ===============================
+
+[15:19:08]       sscanf plugin loaded.     
+
+[15:19:08]          Version:  2.8.3        
+
+[15:19:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:19:08]  ===============================
+
+[15:19:08]   Loaded.
+[15:19:08]  Loaded 1 plugins.
+
+[15:19:08] 
+[15:19:08] Filterscripts
+[15:19:08] ---------------
+[15:19:08]   Loaded 0 filterscripts.
+
+[15:19:08] Script[gamemodes/meuserver.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[15:19:08] Failed to load 'gamemodes/meuserver.amx' script.
+[15:19:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:30:10] filterscripts = ""  (string)
+[15:30:10] 
+[15:30:10] Server Plugins
+[15:30:10] --------------
+[15:30:10]  Loading plugin: sscanf
+[15:30:10] 
+
+[15:30:10]  ===============================
+
+[15:30:10]       sscanf plugin loaded.     
+
+[15:30:10]          Version:  2.8.3        
+
+[15:30:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:30:10]  ===============================
+
+[15:30:10]   Loaded.
+[15:30:10]  Loaded 1 plugins.
+
+[15:30:10] 
+[15:30:10] Filterscripts
+[15:30:10] ---------------
+[15:30:10]   Loaded 0 filterscripts.
+
+[15:30:10] Script[gamemodes/meuserver.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[15:30:10] Failed to load 'gamemodes/meuserver.amx' script.
+[15:30:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:30:14] filterscripts = ""  (string)
+[15:30:14] 
+[15:30:14] Server Plugins
+[15:30:14] --------------
+[15:30:14]  Loading plugin: sscanf
+[15:30:14] 
+
+[15:30:14]  ===============================
+
+[15:30:14]       sscanf plugin loaded.     
+
+[15:30:14]          Version:  2.8.3        
+
+[15:30:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:30:14]  ===============================
+
+[15:30:14]   Loaded.
+[15:30:14]  Loaded 1 plugins.
+
+[15:30:14] 
+[15:30:14] Filterscripts
+[15:30:14] ---------------
+[15:30:14]   Loaded 0 filterscripts.
+
+[15:30:14] Script[gamemodes/meuserver.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[15:30:14] Failed to load 'gamemodes/meuserver.amx' script.
+[15:30:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:31:29] filterscripts = ""  (string)
+[15:31:29] 
+[15:31:29] Server Plugins
+[15:31:29] --------------
+[15:31:29]  Loading plugin: sscanf
+[15:31:29] 
+
+[15:31:29]  ===============================
+
+[15:31:29]       sscanf plugin loaded.     
+
+[15:31:29]          Version:  2.8.3        
+
+[15:31:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:31:29]  ===============================
+
+[15:31:29]   Loaded.
+[15:31:29]  Loaded 1 plugins.
+
+[15:31:29] 
+[15:31:29] Filterscripts
+[15:31:29] ---------------
+[15:31:29]   Loaded 0 filterscripts.
+
+[15:31:29] Script[gamemodes/meuserver.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[15:31:29] Failed to load 'gamemodes/meuserver.amx' script.
+[15:31:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:40:31] filterscripts = ""  (string)
+[15:40:31] 
+[15:40:31] Server Plugins
+[15:40:31] --------------
+[15:40:31]  Loading plugin: sscanf
+[15:40:31] 
+
+[15:40:31]  ===============================
+
+[15:40:31]       sscanf plugin loaded.     
+
+[15:40:31]          Version:  2.8.3        
+
+[15:40:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:40:31]  ===============================
+
+[15:40:31]   Loaded.
+[15:40:31]  Loaded 1 plugins.
+
+[15:40:31] 
+[15:40:31] Filterscripts
+[15:40:31] ---------------
+[15:40:31]   Loaded 0 filterscripts.
+
+[15:40:31]  Hello World!
+ 
+[15:40:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:45:02] filterscripts = ""  (string)
+[15:45:02] 
+[15:45:02] Server Plugins
+[15:45:02] --------------
+[15:45:02]  Loading plugin: sscanf
+[15:45:02] 
+
+[15:45:02]  ===============================
+
+[15:45:02]       sscanf plugin loaded.     
+
+[15:45:02]          Version:  2.8.3        
+
+[15:45:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:45:02]  ===============================
+
+[15:45:02]   Loaded.
+[15:45:02]  Loaded 1 plugins.
+
+[15:45:02] 
+[15:45:02] Filterscripts
+[15:45:02] ---------------
+[15:45:02]   Loaded 0 filterscripts.
+
+[15:45:02]  Hello World!
+ 
+[15:45:02] Number of vehicle models: 0
+[15:47:10] [connection] 127.0.0.1:56989 requests connection cookie.
+[15:47:11] [connection] incoming connection: 127.0.0.1:56989 id: 0
+[15:47:12] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[15:47:58] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[15:48:11] sscanf warning: Strings without a length are deprecated, please add a destination size.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:50:20] filterscripts = ""  (string)
+[15:50:20] 
+[15:50:20] Server Plugins
+[15:50:20] --------------
+[15:50:20]  Loading plugin: sscanf
+[15:50:20] 
+
+[15:50:20]  ===============================
+
+[15:50:20]       sscanf plugin loaded.     
+
+[15:50:20]          Version:  2.8.3        
+
+[15:50:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:50:20]  ===============================
+
+[15:50:20]   Loaded.
+[15:50:20]  Loaded 1 plugins.
+
+[15:50:20] 
+[15:50:20] Filterscripts
+[15:50:20] ---------------
+[15:50:20]   Loaded 0 filterscripts.
+
+[15:50:20]  Hello World!
+ 
+[15:50:20] Number of vehicle models: 0
+[15:51:09] [connection] 127.0.0.1:52703 requests connection cookie.
+[15:51:10] [connection] incoming connection: 127.0.0.1:52703 id: 0
+[15:51:10] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[15:51:23] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[15:51:53] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[15:52:12] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:10:58] filterscripts = ""  (string)
+[16:10:58] 
+[16:10:58] Server Plugins
+[16:10:58] --------------
+[16:10:58]  Loading plugin: sscanf
+[16:10:58] 
+
+[16:10:58]  ===============================
+
+[16:10:58]       sscanf plugin loaded.     
+
+[16:10:58]          Version:  2.8.3        
+
+[16:10:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:10:58]  ===============================
+
+[16:10:58]   Loaded.
+[16:10:58]  Loaded 1 plugins.
+
+[16:10:59] 
+[16:10:59] Filterscripts
+[16:10:59] ---------------
+[16:10:59]   Loaded 0 filterscripts.
+
+[16:10:59]  Hello World!
+ 
+[16:10:59] Number of vehicle models: 0
+[16:13:37] [connection] 127.0.0.1:50135 requests connection cookie.
+[16:13:38] [connection] incoming connection: 127.0.0.1:50135 id: 0
+[16:13:38] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:15:13] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[16:15:28] sscanf warning: Strings without a length are deprecated, please add a destination size.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:48:54] filterscripts = ""  (string)
+[18:48:54] 
+[18:48:54] Server Plugins
+[18:48:54] --------------
+[18:48:54]  Loading plugin: sscanf
+[18:48:54] 
+
+[18:48:54]  ===============================
+
+[18:48:54]       sscanf plugin loaded.     
+
+[18:48:54]          Version:  2.8.3        
+
+[18:48:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:48:54]  ===============================
+
+[18:48:54]   Loaded.
+[18:48:54]  Loaded 1 plugins.
+
+[18:48:54] 
+[18:48:54] Filterscripts
+[18:48:54] ---------------
+[18:48:54]   Loaded 0 filterscripts.
+
+[18:48:54]  Hello World!
+ 
+[18:48:54] Number of vehicle models: 0
+[18:49:48] [connection] 127.0.0.1:60908 requests connection cookie.
+[18:49:49] [connection] incoming connection: 127.0.0.1:60908 id: 0
+[18:49:49] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[18:50:13] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:50:31] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:54:29] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:55:06] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:58:51] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[19:04:29] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[19:05:47] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[19:06:40] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[19:16:51] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[19:35:24] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:35:24] filterscripts = ""  (string)
+[15:35:24] 
+[15:35:24] Server Plugins
+[15:35:24] --------------
+[15:35:24]  Loading plugin: sscanf
+[15:35:24] 
+
+[15:35:24]  ===============================
+
+[15:35:24]       sscanf plugin loaded.     
+
+[15:35:24]          Version:  2.8.3        
+
+[15:35:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:35:24]  ===============================
+
+[15:35:24]   Loaded.
+[15:35:24]  Loaded 1 plugins.
+
+[15:35:24] 
+[15:35:24] Filterscripts
+[15:35:24] ---------------
+[15:35:24]   Loaded 0 filterscripts.
+
+[15:35:24] Script[gamemodes/meuserver.amx]: Run time error 19: "File or function is not found"
+[15:35:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:36:39] filterscripts = ""  (string)
+[15:36:39] 
+[15:36:39] Server Plugins
+[15:36:39] --------------
+[15:36:39]  Loading plugin: sscanf
+[15:36:39] 
+
+[15:36:39]  ===============================
+
+[15:36:39]       sscanf plugin loaded.     
+
+[15:36:39]          Version:  2.8.3        
+
+[15:36:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:36:39]  ===============================
+
+[15:36:39]   Loaded.
+[15:36:39]  Loading plugin: FCNPC
+[15:36:39] 
+[15:36:39] -------------------------------------------------
+[15:36:39]      FCNPC - Fully Controllable NPC v2.0.4
+[15:36:39]             Windows SA-MP 0.3.7 R2
+[15:36:39]            Nov 17 2021 at 02:36:40
+[15:36:39] 
+[15:36:39]   Author:       OrMisicL (2013 - 2015)
+[15:36:39]   Continued by: ziggi    (2016 - present)
+[15:36:39] 
+[15:36:39]   See full credits in the README.md file
+[15:36:39] -------------------------------------------------
+[15:36:39] 
+[15:36:39] Loading...
+[15:36:39] 
+[15:36:39] -------------------------------------------------
+[15:36:39]    ColAndreasv1.4.0
+[15:36:39] 
+[15:36:39]    Created By:
+[15:36:39]      [uL]Chris42O
+[15:36:39]      [uL]Slice
+[15:36:39]      [uL]Pottus
+[15:36:39] -------------------------------------------------
+[15:36:39] 
+[15:36:39] Loading...
+[15:36:39] ColAndreas v1.4.0 Loaded.
+[15:36:39]   Loaded.
+[15:36:39]  Loaded 2 plugins.
+
+[15:36:39] 
+[15:36:39] Filterscripts
+[15:36:39] ---------------
+[15:36:39]   Loaded 0 filterscripts.
+
+[15:36:39] No collision data found.
+[15:36:39] [FCNPC] Warning: Unable to create NPCs. The maxnpc limit in server.cfg is 0.
+[15:36:39]  Hello World!
+ 
+[15:36:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:37:12] filterscripts = ""  (string)
+[15:37:12] 
+[15:37:12] Server Plugins
+[15:37:12] --------------
+[15:37:12]  Loading plugin: sscanf
+[15:37:12] 
+
+[15:37:12]  ===============================
+
+[15:37:12]       sscanf plugin loaded.     
+
+[15:37:12]          Version:  2.8.3        
+
+[15:37:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:37:12]  ===============================
+
+[15:37:12]   Loaded.
+[15:37:12]  Loading plugin: FCNPC
+[15:37:12] 
+[15:37:12] -------------------------------------------------
+[15:37:12]      FCNPC - Fully Controllable NPC v2.0.4
+[15:37:12]             Windows SA-MP 0.3.7 R2
+[15:37:12]            Nov 17 2021 at 02:36:40
+[15:37:12] 
+[15:37:12]   Author:       OrMisicL (2013 - 2015)
+[15:37:12]   Continued by: ziggi    (2016 - present)
+[15:37:12] 
+[15:37:12]   See full credits in the README.md file
+[15:37:12] -------------------------------------------------
+[15:37:12] 
+[15:37:12] Loading...
+[15:37:12] 
+[15:37:12] -------------------------------------------------
+[15:37:12]    ColAndreasv1.4.0
+[15:37:12] 
+[15:37:12]    Created By:
+[15:37:12]      [uL]Chris42O
+[15:37:12]      [uL]Slice
+[15:37:12]      [uL]Pottus
+[15:37:12] -------------------------------------------------
+[15:37:12] 
+[15:37:12] Loading...
+[15:37:12] ColAndreas v1.4.0 Loaded.
+[15:37:12]   Loaded.
+[15:37:12]  Loaded 2 plugins.
+
+[15:37:12] 
+[15:37:12] Filterscripts
+[15:37:12] ---------------
+[15:37:12]   Loaded 0 filterscripts.
+
+[15:37:12] No collision data found.
+[15:37:12]  Hello World!
+ 
+[15:37:12] Number of vehicle models: 0
+[15:38:04] [connection] 127.0.0.1:57938 requests connection cookie.
+[15:38:05] [connection] incoming connection: 127.0.0.1:57938 id: 0
+[15:38:06] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[15:39:33] [part] diogodeas1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:39:52] filterscripts = ""  (string)
+[15:39:52] 
+[15:39:52] Server Plugins
+[15:39:52] --------------
+[15:39:52]  Loading plugin: sscanf
+[15:39:52] 
+
+[15:39:52]  ===============================
+
+[15:39:52]       sscanf plugin loaded.     
+
+[15:39:52]          Version:  2.8.3        
+
+[15:39:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:39:52]  ===============================
+
+[15:39:52]   Loaded.
+[15:39:52]  Loading plugin: FCNPC
+[15:39:52] 
+[15:39:52] -------------------------------------------------
+[15:39:52]      FCNPC - Fully Controllable NPC v2.0.4
+[15:39:52]             Windows SA-MP 0.3.7 R2
+[15:39:52]            Nov 17 2021 at 02:36:40
+[15:39:52] 
+[15:39:52]   Author:       OrMisicL (2013 - 2015)
+[15:39:52]   Continued by: ziggi    (2016 - present)
+[15:39:52] 
+[15:39:52]   See full credits in the README.md file
+[15:39:52] -------------------------------------------------
+[15:39:52] 
+[15:39:52] Loading...
+[15:39:52] 
+[15:39:52] -------------------------------------------------
+[15:39:52]    ColAndreasv1.4.0
+[15:39:52] 
+[15:39:52]    Created By:
+[15:39:52]      [uL]Chris42O
+[15:39:52]      [uL]Slice
+[15:39:52]      [uL]Pottus
+[15:39:52] -------------------------------------------------
+[15:39:52] 
+[15:39:52] Loading...
+[15:39:52] ColAndreas v1.4.0 Loaded.
+[15:39:52]   Loaded.
+[15:39:52]  Loaded 2 plugins.
+
+[15:39:52] 
+[15:39:52] Filterscripts
+[15:39:52] ---------------
+[15:39:52]   Loaded 0 filterscripts.
+
+[15:39:52] No collision data found.
+[15:39:52]  Hello World!
+ 
+[15:39:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:44:44] filterscripts = ""  (string)
+[15:44:44] 
+[15:44:44] Server Plugins
+[15:44:44] --------------
+[15:44:44]  Loading plugin: sscanf
+[15:44:44] 
+
+[15:44:44]  ===============================
+
+[15:44:44]       sscanf plugin loaded.     
+
+[15:44:44]          Version:  2.8.3        
+
+[15:44:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:44:44]  ===============================
+
+[15:44:44]   Loaded.
+[15:44:44]  Loading plugin: FCNPC
+[15:44:44] 
+[15:44:44] -------------------------------------------------
+[15:44:44]      FCNPC - Fully Controllable NPC v2.0.4
+[15:44:44]             Windows SA-MP 0.3.7 R2
+[15:44:44]            Nov 17 2021 at 02:36:40
+[15:44:44] 
+[15:44:44]   Author:       OrMisicL (2013 - 2015)
+[15:44:44]   Continued by: ziggi    (2016 - present)
+[15:44:44] 
+[15:44:44]   See full credits in the README.md file
+[15:44:44] -------------------------------------------------
+[15:44:44] 
+[15:44:44] Loading...
+[15:44:44] 
+[15:44:44] -------------------------------------------------
+[15:44:44]    ColAndreasv1.4.0
+[15:44:44] 
+[15:44:44]    Created By:
+[15:44:44]      [uL]Chris42O
+[15:44:44]      [uL]Slice
+[15:44:44]      [uL]Pottus
+[15:44:44] -------------------------------------------------
+[15:44:44] 
+[15:44:44] Loading...
+[15:44:44] ColAndreas v1.4.0 Loaded.
+[15:44:44]   Loaded.
+[15:44:44]  Loaded 2 plugins.
+
+[15:44:44] 
+[15:44:44] Filterscripts
+[15:44:44] ---------------
+[15:44:44]   Loaded 0 filterscripts.
+
+[15:44:44] No collision data found.
+[15:44:44]  Hello World!
+ 
+[15:44:44] Number of vehicle models: 0
+[15:45:40] [connection] 127.0.0.1:61205 requests connection cookie.
+[15:45:41] [connection] incoming connection: 127.0.0.1:61205 id: 0
+[15:45:41] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[15:45:59] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[15:46:46] [part] diogodeas1 has left the server (0:1)
+[15:47:28] --- Server Shutting Down.
+[15:47:28] [npc:part] newdriver has left the server (199:0)
+[15:47:28] 
+
+[15:47:28]  ===============================
+
+[15:47:28]      sscanf plugin unloaded.    
+
+[15:47:28]  ===============================
+
+[15:47:28] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:56:35] filterscripts = ""  (string)
+[15:56:35] 
+[15:56:35] Server Plugins
+[15:56:35] --------------
+[15:56:35]  Loading plugin: sscanf
+[15:56:35] 
+
+[15:56:35]  ===============================
+
+[15:56:35]       sscanf plugin loaded.     
+
+[15:56:35]          Version:  2.8.3        
+
+[15:56:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:56:35]  ===============================
+
+[15:56:35]   Loaded.
+[15:56:35]  Loading plugin: FCNPC
+[15:56:35] 
+[15:56:35] -------------------------------------------------
+[15:56:35]      FCNPC - Fully Controllable NPC v2.0.4
+[15:56:35]             Windows SA-MP 0.3.7 R2
+[15:56:35]            Nov 17 2021 at 02:36:40
+[15:56:35] 
+[15:56:35]   Author:       OrMisicL (2013 - 2015)
+[15:56:35]   Continued by: ziggi    (2016 - present)
+[15:56:35] 
+[15:56:35]   See full credits in the README.md file
+[15:56:35] -------------------------------------------------
+[15:56:35] 
+[15:56:35] Loading...
+[15:56:35] 
+[15:56:35] -------------------------------------------------
+[15:56:35]    ColAndreasv1.4.0
+[15:56:35] 
+[15:56:35]    Created By:
+[15:56:35]      [uL]Chris42O
+[15:56:35]      [uL]Slice
+[15:56:35]      [uL]Pottus
+[15:56:35] -------------------------------------------------
+[15:56:35] 
+[15:56:35] Loading...
+[15:56:35] ColAndreas v1.4.0 Loaded.
+[15:56:35]   Loaded.
+[15:56:35]  Loaded 2 plugins.
+
+[15:56:35] 
+[15:56:35] Filterscripts
+[15:56:35] ---------------
+[15:56:35]   Loaded 0 filterscripts.
+
+[15:56:35] No collision data found.
+[15:56:35]  Hello World!
+ 
+[15:56:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:00:20] filterscripts = ""  (string)
+[17:00:20] 
+[17:00:20] Server Plugins
+[17:00:20] --------------
+[17:00:20]  Loading plugin: sscanf
+[17:00:20] 
+
+[17:00:20]  ===============================
+
+[17:00:20]       sscanf plugin loaded.     
+
+[17:00:20]          Version:  2.8.3        
+
+[17:00:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:00:20]  ===============================
+
+[17:00:20]   Loaded.
+[17:00:20]  Loading plugin: FCNPC
+[17:00:20] 
+[17:00:20] -------------------------------------------------
+[17:00:20]      FCNPC - Fully Controllable NPC v2.0.4
+[17:00:20]             Windows SA-MP 0.3.7 R2
+[17:00:20]            Nov 17 2021 at 02:36:40
+[17:00:20] 
+[17:00:20]   Author:       OrMisicL (2013 - 2015)
+[17:00:20]   Continued by: ziggi    (2016 - present)
+[17:00:20] 
+[17:00:20]   See full credits in the README.md file
+[17:00:20] -------------------------------------------------
+[17:00:20] 
+[17:00:20] Loading...
+[17:00:20] 
+[17:00:20] -------------------------------------------------
+[17:00:20]    ColAndreasv1.4.0
+[17:00:20] 
+[17:00:20]    Created By:
+[17:00:20]      [uL]Chris42O
+[17:00:20]      [uL]Slice
+[17:00:20]      [uL]Pottus
+[17:00:20] -------------------------------------------------
+[17:00:20] 
+[17:00:20] Loading...
+[17:00:20] ColAndreas v1.4.0 Loaded.
+[17:00:20]   Loaded.
+[17:00:20]  Loaded 2 plugins.
+
+[17:00:20] 
+[17:00:20] Filterscripts
+[17:00:20] ---------------
+[17:00:20]   Loaded 0 filterscripts.
+
+[17:00:20] No collision data found.
+[17:00:20]  Hello World!
+ 
+[17:00:20] Number of vehicle models: 0
+[17:00:47] [connection] 127.0.0.1:62929 requests connection cookie.
+[17:00:48] [connection] incoming connection: 127.0.0.1:62929 id: 0
+[17:00:48] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[17:01:13] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[17:01:36] [part] diogodeas1 has left the server (0:1)
+[17:01:58] --- Server Shutting Down.
+[17:01:58] [npc:part] newdriver has left the server (199:0)
+[17:01:58] 
+
+[17:01:58]  ===============================
+
+[17:01:58]      sscanf plugin unloaded.    
+
+[17:01:58]  ===============================
+
+[17:01:58] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:02:03] filterscripts = ""  (string)
+[17:02:03] 
+[17:02:03] Server Plugins
+[17:02:03] --------------
+[17:02:03]  Loading plugin: sscanf
+[17:02:03] 
+
+[17:02:03]  ===============================
+
+[17:02:03]       sscanf plugin loaded.     
+
+[17:02:03]          Version:  2.8.3        
+
+[17:02:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:02:03]  ===============================
+
+[17:02:03]   Loaded.
+[17:02:03]  Loading plugin: FCNPC
+[17:02:03] 
+[17:02:03] -------------------------------------------------
+[17:02:03]      FCNPC - Fully Controllable NPC v2.0.4
+[17:02:03]             Windows SA-MP 0.3.7 R2
+[17:02:03]            Nov 17 2021 at 02:36:40
+[17:02:03] 
+[17:02:03]   Author:       OrMisicL (2013 - 2015)
+[17:02:03]   Continued by: ziggi    (2016 - present)
+[17:02:03] 
+[17:02:03]   See full credits in the README.md file
+[17:02:03] -------------------------------------------------
+[17:02:03] 
+[17:02:03] Loading...
+[17:02:03] 
+[17:02:03] -------------------------------------------------
+[17:02:03]    ColAndreasv1.4.0
+[17:02:03] 
+[17:02:03]    Created By:
+[17:02:03]      [uL]Chris42O
+[17:02:03]      [uL]Slice
+[17:02:03]      [uL]Pottus
+[17:02:03] -------------------------------------------------
+[17:02:03] 
+[17:02:03] Loading...
+[17:02:03] ColAndreas v1.4.0 Loaded.
+[17:02:03]   Loaded.
+[17:02:03]  Loaded 2 plugins.
+
+[17:02:03] 
+[17:02:03] Filterscripts
+[17:02:03] ---------------
+[17:02:03]   Loaded 0 filterscripts.
+
+[17:02:03] No collision data found.
+[17:02:03]  Hello World!
+ 
+[17:02:03] Number of vehicle models: 0
+[17:02:25] [connection] 127.0.0.1:63247 requests connection cookie.
+[17:02:26] [connection] incoming connection: 127.0.0.1:63247 id: 0
+[17:02:26] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[17:02:42] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[17:08:22] --- Server Shutting Down.
+[17:08:22] [part] diogodeas1 has left the server (0:0)
+[17:08:22] [npc:part] newdriver has left the server (199:0)
+[17:08:22] 
+
+[17:08:22]  ===============================
+
+[17:08:22]      sscanf plugin unloaded.    
+
+[17:08:22]  ===============================
+
+[17:08:22] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:08:32] filterscripts = ""  (string)
+[17:08:32] 
+[17:08:32] Server Plugins
+[17:08:32] --------------
+[17:08:32]  Loading plugin: sscanf
+[17:08:32] 
+
+[17:08:32]  ===============================
+
+[17:08:32]       sscanf plugin loaded.     
+
+[17:08:32]          Version:  2.8.3        
+
+[17:08:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:08:32]  ===============================
+
+[17:08:32]   Loaded.
+[17:08:32]  Loading plugin: FCNPC
+[17:08:32] 
+[17:08:32] -------------------------------------------------
+[17:08:32]      FCNPC - Fully Controllable NPC v2.0.4
+[17:08:32]             Windows SA-MP 0.3.7 R2
+[17:08:32]            Nov 17 2021 at 02:36:40
+[17:08:32] 
+[17:08:32]   Author:       OrMisicL (2013 - 2015)
+[17:08:32]   Continued by: ziggi    (2016 - present)
+[17:08:32] 
+[17:08:32]   See full credits in the README.md file
+[17:08:32] -------------------------------------------------
+[17:08:32] 
+[17:08:32] Loading...
+[17:08:32] 
+[17:08:32] -------------------------------------------------
+[17:08:32]    ColAndreasv1.4.0
+[17:08:32] 
+[17:08:32]    Created By:
+[17:08:32]      [uL]Chris42O
+[17:08:32]      [uL]Slice
+[17:08:32]      [uL]Pottus
+[17:08:32] -------------------------------------------------
+[17:08:32] 
+[17:08:32] Loading...
+[17:08:32] ColAndreas v1.4.0 Loaded.
+[17:08:32]   Loaded.
+[17:08:32]  Loaded 2 plugins.
+
+[17:08:32] 
+[17:08:32] Filterscripts
+[17:08:32] ---------------
+[17:08:32]   Loaded 0 filterscripts.
+
+[17:08:32] No collision data found.
+[17:08:32]  Hello World!
+ 
+[17:08:32] Number of vehicle models: 0
+[17:08:53] [connection] 127.0.0.1:61049 requests connection cookie.
+[17:08:54] [connection] incoming connection: 127.0.0.1:61049 id: 0
+[17:08:54] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[17:09:14] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[17:10:16] [part] diogodeas1 has left the server (0:1)
+[17:10:29] --- Server Shutting Down.
+[17:10:29] [npc:part] newdriver has left the server (199:0)
+[17:10:29] 
+
+[17:10:29]  ===============================
+
+[17:10:29]      sscanf plugin unloaded.    
+
+[17:10:29]  ===============================
+
+[17:10:29] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:10:32] filterscripts = ""  (string)
+[17:10:32] 
+[17:10:32] Server Plugins
+[17:10:32] --------------
+[17:10:32]  Loading plugin: sscanf
+[17:10:32] 
+
+[17:10:32]  ===============================
+
+[17:10:32]       sscanf plugin loaded.     
+
+[17:10:32]          Version:  2.8.3        
+
+[17:10:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:10:32]  ===============================
+
+[17:10:32]   Loaded.
+[17:10:32]  Loading plugin: FCNPC
+[17:10:32] 
+[17:10:32] -------------------------------------------------
+[17:10:32]      FCNPC - Fully Controllable NPC v2.0.4
+[17:10:32]             Windows SA-MP 0.3.7 R2
+[17:10:32]            Nov 17 2021 at 02:36:40
+[17:10:32] 
+[17:10:32]   Author:       OrMisicL (2013 - 2015)
+[17:10:32]   Continued by: ziggi    (2016 - present)
+[17:10:32] 
+[17:10:32]   See full credits in the README.md file
+[17:10:32] -------------------------------------------------
+[17:10:32] 
+[17:10:32] Loading...
+[17:10:32] 
+[17:10:32] -------------------------------------------------
+[17:10:32]    ColAndreasv1.4.0
+[17:10:32] 
+[17:10:32]    Created By:
+[17:10:32]      [uL]Chris42O
+[17:10:32]      [uL]Slice
+[17:10:32]      [uL]Pottus
+[17:10:32] -------------------------------------------------
+[17:10:32] 
+[17:10:32] Loading...
+[17:10:32] ColAndreas v1.4.0 Loaded.
+[17:10:32]   Loaded.
+[17:10:32]  Loaded 2 plugins.
+
+[17:10:32] 
+[17:10:32] Filterscripts
+[17:10:32] ---------------
+[17:10:32]   Loaded 0 filterscripts.
+
+[17:10:32] No collision data found.
+[17:10:32]  Hello World!
+ 
+[17:10:32] Number of vehicle models: 0
+[17:11:12] [connection] 127.0.0.1:63866 requests connection cookie.
+[17:11:13] [connection] incoming connection: 127.0.0.1:63866 id: 0
+[17:11:13] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[17:11:33] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[17:15:50] [part] diogodeas1 has left the server (0:1)
+[17:23:26] --- Server Shutting Down.
+[17:23:26] [npc:part] newdriver has left the server (199:0)
+[17:23:26] 
+
+[17:23:26]  ===============================
+
+[17:23:26]      sscanf plugin unloaded.    
+
+[17:23:26]  ===============================
+
+[17:23:26] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:26:58] filterscripts = ""  (string)
+[17:26:58] 
+[17:26:58] Server Plugins
+[17:26:58] --------------
+[17:26:58]  Loading plugin: sscanf
+[17:26:58] 
+
+[17:26:58]  ===============================
+
+[17:26:58]       sscanf plugin loaded.     
+
+[17:26:58]          Version:  2.8.3        
+
+[17:26:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:26:58]  ===============================
+
+[17:26:58]   Loaded.
+[17:26:58]  Loading plugin: FCNPC
+[17:26:58] 
+[17:26:58] -------------------------------------------------
+[17:26:58]      FCNPC - Fully Controllable NPC v2.0.4
+[17:26:58]             Windows SA-MP 0.3.7 R2
+[17:26:58]            Nov 17 2021 at 02:36:40
+[17:26:58] 
+[17:26:58]   Author:       OrMisicL (2013 - 2015)
+[17:26:58]   Continued by: ziggi    (2016 - present)
+[17:26:58] 
+[17:26:58]   See full credits in the README.md file
+[17:26:58] -------------------------------------------------
+[17:26:58] 
+[17:26:58] Loading...
+[17:26:58] 
+[17:26:58] -------------------------------------------------
+[17:26:58]    ColAndreasv1.4.0
+[17:26:58] 
+[17:26:58]    Created By:
+[17:26:58]      [uL]Chris42O
+[17:26:58]      [uL]Slice
+[17:26:58]      [uL]Pottus
+[17:26:58] -------------------------------------------------
+[17:26:58] 
+[17:26:58] Loading...
+[17:26:58] ColAndreas v1.4.0 Loaded.
+[17:26:58]   Loaded.
+[17:26:58]  Loaded 2 plugins.
+
+[17:26:58] 
+[17:26:58] Filterscripts
+[17:26:58] ---------------
+[17:26:58]   Loaded 0 filterscripts.
+
+[17:26:58] No collision data found.
+[17:26:58]  Hello World!
+ 
+[17:26:58] Number of vehicle models: 0
+[17:27:22] [connection] 127.0.0.1:49985 requests connection cookie.
+[17:27:23] [connection] incoming connection: 127.0.0.1:49985 id: 0
+[17:27:23] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[17:27:42] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[17:28:03] [part] diogodeas1 has left the server (0:1)
+[17:28:10] --- Server Shutting Down.
+[17:28:10] [npc:part] newdriver has left the server (199:0)
+[17:28:10] 
+
+[17:28:10]  ===============================
+
+[17:28:10]      sscanf plugin unloaded.    
+
+[17:28:10]  ===============================
+
+[17:28:10] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:28:14] filterscripts = ""  (string)
+[17:28:14] 
+[17:28:14] Server Plugins
+[17:28:14] --------------
+[17:28:14]  Loading plugin: sscanf
+[17:28:14] 
+
+[17:28:14]  ===============================
+
+[17:28:14]       sscanf plugin loaded.     
+
+[17:28:14]          Version:  2.8.3        
+
+[17:28:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:28:14]  ===============================
+
+[17:28:14]   Loaded.
+[17:28:14]  Loading plugin: FCNPC
+[17:28:14] 
+[17:28:14] -------------------------------------------------
+[17:28:14]      FCNPC - Fully Controllable NPC v2.0.4
+[17:28:14]             Windows SA-MP 0.3.7 R2
+[17:28:14]            Nov 17 2021 at 02:36:40
+[17:28:14] 
+[17:28:14]   Author:       OrMisicL (2013 - 2015)
+[17:28:14]   Continued by: ziggi    (2016 - present)
+[17:28:14] 
+[17:28:14]   See full credits in the README.md file
+[17:28:14] -------------------------------------------------
+[17:28:14] 
+[17:28:14] Loading...
+[17:28:14] 
+[17:28:14] -------------------------------------------------
+[17:28:14]    ColAndreasv1.4.0
+[17:28:14] 
+[17:28:14]    Created By:
+[17:28:14]      [uL]Chris42O
+[17:28:14]      [uL]Slice
+[17:28:14]      [uL]Pottus
+[17:28:14] -------------------------------------------------
+[17:28:14] 
+[17:28:14] Loading...
+[17:28:14] ColAndreas v1.4.0 Loaded.
+[17:28:14]   Loaded.
+[17:28:14]  Loaded 2 plugins.
+
+[17:28:14] 
+[17:28:14] Filterscripts
+[17:28:14] ---------------
+[17:28:14]   Loaded 0 filterscripts.
+
+[17:28:14] No collision data found.
+[17:28:14]  Hello World!
+ 
+[17:28:14] Number of vehicle models: 0
+[17:28:42] [connection] 127.0.0.1:49894 requests connection cookie.
+[17:28:43] [connection] incoming connection: 127.0.0.1:49894 id: 0
+[17:28:43] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[17:28:57] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[17:31:34] [part] diogodeas1 has left the server (0:1)
+[17:36:40] --- Server Shutting Down.
+[17:36:40] [npc:part] newdriver has left the server (199:0)
+[17:36:40] 
+
+[17:36:40]  ===============================
+
+[17:36:40]      sscanf plugin unloaded.    
+
+[17:36:40]  ===============================
+
+[17:36:40] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:35] filterscripts = ""  (string)
+[19:26:35] 
+[19:26:35] Server Plugins
+[19:26:35] --------------
+[19:26:35]  Loading plugin: sscanf
+[19:26:35] 
+
+[19:26:35]  ===============================
+
+[19:26:35]       sscanf plugin loaded.     
+
+[19:26:35]          Version:  2.8.3        
+
+[19:26:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:26:35]  ===============================
+
+[19:26:35]   Loaded.
+[19:26:35]  Loading plugin: FCNPC
+[19:26:35] 
+[19:26:35] -------------------------------------------------
+[19:26:35]      FCNPC - Fully Controllable NPC v2.0.4
+[19:26:35]             Windows SA-MP 0.3.7 R2
+[19:26:35]            Nov 17 2021 at 02:36:40
+[19:26:35] 
+[19:26:35]   Author:       OrMisicL (2013 - 2015)
+[19:26:35]   Continued by: ziggi    (2016 - present)
+[19:26:35] 
+[19:26:35]   See full credits in the README.md file
+[19:26:35] -------------------------------------------------
+[19:26:35] 
+[19:26:35] Loading...
+[19:26:35] 
+[19:26:35] -------------------------------------------------
+[19:26:35]    ColAndreasv1.4.0
+[19:26:35] 
+[19:26:35]    Created By:
+[19:26:35]      [uL]Chris42O
+[19:26:35]      [uL]Slice
+[19:26:35]      [uL]Pottus
+[19:26:35] -------------------------------------------------
+[19:26:35] 
+[19:26:35] Loading...
+[19:26:35] ColAndreas v1.4.0 Loaded.
+[19:26:35]   Loaded.
+[19:26:35]  Loaded 2 plugins.
+
+[19:26:35] I couldn't load any gamemode scripts. Please verify your server.cfg
+[19:26:35] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:42:04] filterscripts = ""  (string)
+[19:42:04] 
+[19:42:04] Server Plugins
+[19:42:04] --------------
+[19:42:04]  Loading plugin: sscanf
+[19:42:04] 
+
+[19:42:04]  ===============================
+
+[19:42:04]       sscanf plugin loaded.     
+
+[19:42:04]          Version:  2.8.3        
+
+[19:42:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:42:04]  ===============================
+
+[19:42:04]   Loaded.
+[19:42:04]  Loading plugin: FCNPC
+[19:42:04] 
+[19:42:04] -------------------------------------------------
+[19:42:04]      FCNPC - Fully Controllable NPC v2.0.4
+[19:42:04]             Windows SA-MP 0.3.7 R2
+[19:42:04]            Nov 17 2021 at 02:36:40
+[19:42:04] 
+[19:42:04]   Author:       OrMisicL (2013 - 2015)
+[19:42:04]   Continued by: ziggi    (2016 - present)
+[19:42:04] 
+[19:42:04]   See full credits in the README.md file
+[19:42:04] -------------------------------------------------
+[19:42:04] 
+[19:42:04] Loading...
+[19:42:04] 
+[19:42:04] -------------------------------------------------
+[19:42:04]    ColAndreasv1.4.0
+[19:42:04] 
+[19:42:04]    Created By:
+[19:42:04]      [uL]Chris42O
+[19:42:04]      [uL]Slice
+[19:42:04]      [uL]Pottus
+[19:42:04] -------------------------------------------------
+[19:42:04] 
+[19:42:04] Loading...
+[19:42:04] ColAndreas v1.4.0 Loaded.
+[19:42:04]   Loaded.
+[19:42:04]  Loaded 2 plugins.
+
+[19:42:04] 
+[19:42:04] Filterscripts
+[19:42:04] ---------------
+[19:42:04]   Loaded 0 filterscripts.
+
+[19:42:04] Script[gamemodes/meuserver.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[19:42:04] Failed to load 'gamemodes/meuserver.amx' script.
+[19:42:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:46:24] filterscripts = ""  (string)
+[19:46:24] 
+[19:46:24] Server Plugins
+[19:46:24] --------------
+[19:46:24]  Loading plugin: sscanf
+[19:46:24] 
+
+[19:46:24]  ===============================
+
+[19:46:24]       sscanf plugin loaded.     
+
+[19:46:24]          Version:  2.8.3        
+
+[19:46:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:46:24]  ===============================
+
+[19:46:24]   Loaded.
+[19:46:24]  Loading plugin: FCNPC
+[19:46:24] 
+[19:46:24] -------------------------------------------------
+[19:46:24]      FCNPC - Fully Controllable NPC v2.0.4
+[19:46:24]             Windows SA-MP 0.3.7 R2
+[19:46:24]            Nov 17 2021 at 02:36:40
+[19:46:24] 
+[19:46:24]   Author:       OrMisicL (2013 - 2015)
+[19:46:24]   Continued by: ziggi    (2016 - present)
+[19:46:24] 
+[19:46:24]   See full credits in the README.md file
+[19:46:24] -------------------------------------------------
+[19:46:24] 
+[19:46:24] Loading...
+[19:46:24] 
+[19:46:24] -------------------------------------------------
+[19:46:24]    ColAndreasv1.4.0
+[19:46:24] 
+[19:46:24]    Created By:
+[19:46:24]      [uL]Chris42O
+[19:46:24]      [uL]Slice
+[19:46:24]      [uL]Pottus
+[19:46:24] -------------------------------------------------
+[19:46:24] 
+[19:46:24] Loading...
+[19:46:24] ColAndreas v1.4.0 Loaded.
+[19:46:24]   Loaded.
+[19:46:24]  Loaded 2 plugins.
+
+[19:46:24] 
+[19:46:24] Filterscripts
+[19:46:24] ---------------
+[19:46:24]   Loaded 0 filterscripts.
+
+[19:46:24] No collision data found.
+[19:46:24]  Hello World!
+ 
+[19:46:24] Number of vehicle models: 0
+[19:47:37] [connection] 127.0.0.1:51435 requests connection cookie.
+[19:47:38] [connection] incoming connection: 127.0.0.1:51435 id: 0
+[19:47:38] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[19:48:11] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[19:49:33] [part] diogodeas1 has left the server (0:1)
+[19:49:42] --- Server Shutting Down.
+[19:49:42] [npc:part] newdriver has left the server (199:0)
+[19:49:42] 
+
+[19:49:42]  ===============================
+
+[19:49:42]      sscanf plugin unloaded.    
+
+[19:49:42]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:51:44] filterscripts = ""  (string)
+[19:51:44] 
+[19:51:44] Server Plugins
+[19:51:44] --------------
+[19:51:44]  Loading plugin: sscanf
+[19:51:44] 
+
+[19:51:44]  ===============================
+
+[19:51:44]       sscanf plugin loaded.     
+
+[19:51:44]          Version:  2.8.3        
+
+[19:51:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:51:44]  ===============================
+
+[19:51:44]   Loaded.
+[19:51:44]  Loading plugin: FCNPC
+[19:51:44] 
+[19:51:44] -------------------------------------------------
+[19:51:44]      FCNPC - Fully Controllable NPC v2.0.4
+[19:51:44]             Windows SA-MP 0.3.7 R2
+[19:51:44]            Nov 17 2021 at 02:36:40
+[19:51:44] 
+[19:51:44]   Author:       OrMisicL (2013 - 2015)
+[19:51:44]   Continued by: ziggi    (2016 - present)
+[19:51:44] 
+[19:51:44]   See full credits in the README.md file
+[19:51:44] -------------------------------------------------
+[19:51:44] 
+[19:51:44] Loading...
+[19:51:44] 
+[19:51:44] -------------------------------------------------
+[19:51:44]    ColAndreasv1.4.0
+[19:51:44] 
+[19:51:44]    Created By:
+[19:51:44]      [uL]Chris42O
+[19:51:44]      [uL]Slice
+[19:51:44]      [uL]Pottus
+[19:51:44] -------------------------------------------------
+[19:51:44] 
+[19:51:44] Loading...
+[19:51:44] ColAndreas v1.4.0 Loaded.
+[19:51:44]   Loaded.
+[19:51:44]  Loaded 2 plugins.
+
+[19:51:44] 
+[19:51:44] Filterscripts
+[19:51:44] ---------------
+[19:51:44]   Loaded 0 filterscripts.
+
+[19:51:44] No collision data found.
+[19:51:44]  Hello World!
+ 
+[19:51:44] Number of vehicle models: 0
+[19:52:19] [connection] 127.0.0.1:51581 requests connection cookie.
+[19:52:20] [connection] incoming connection: 127.0.0.1:51581 id: 0
+[19:52:20] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[19:52:54] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[19:53:27] --- Server Shutting Down.
+[19:53:27] [part] diogodeas1 has left the server (0:0)
+[19:53:27] [npc:part] newdriver has left the server (199:0)
+[19:53:27] 
+
+[19:53:27]  ===============================
+
+[19:53:27]      sscanf plugin unloaded.    
+
+[19:53:27]  ===============================
+
+[19:53:27] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:54:02] filterscripts = ""  (string)
+[19:54:02] 
+[19:54:02] Server Plugins
+[19:54:02] --------------
+[19:54:02]  Loading plugin: sscanf
+[19:54:02] 
+
+[19:54:02]  ===============================
+
+[19:54:02]       sscanf plugin loaded.     
+
+[19:54:02]          Version:  2.8.3        
+
+[19:54:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:54:02]  ===============================
+
+[19:54:02]   Loaded.
+[19:54:02]  Loading plugin: FCNPC
+[19:54:02] 
+[19:54:02] -------------------------------------------------
+[19:54:02]      FCNPC - Fully Controllable NPC v2.0.4
+[19:54:02]             Windows SA-MP 0.3.7 R2
+[19:54:02]            Nov 17 2021 at 02:36:40
+[19:54:02] 
+[19:54:02]   Author:       OrMisicL (2013 - 2015)
+[19:54:02]   Continued by: ziggi    (2016 - present)
+[19:54:02] 
+[19:54:02]   See full credits in the README.md file
+[19:54:02] -------------------------------------------------
+[19:54:02] 
+[19:54:02] Loading...
+[19:54:02] 
+[19:54:02] -------------------------------------------------
+[19:54:02]    ColAndreasv1.4.0
+[19:54:02] 
+[19:54:02]    Created By:
+[19:54:02]      [uL]Chris42O
+[19:54:02]      [uL]Slice
+[19:54:02]      [uL]Pottus
+[19:54:02] -------------------------------------------------
+[19:54:02] 
+[19:54:02] Loading...
+[19:54:02] ColAndreas v1.4.0 Loaded.
+[19:54:02]   Loaded.
+[19:54:02]  Loaded 2 plugins.
+
+[19:54:02] 
+[19:54:02] Filterscripts
+[19:54:02] ---------------
+[19:54:02]   Loaded 0 filterscripts.
+
+[19:54:02] No collision data found.
+[19:54:02]  Hello World!
+ 
+[19:54:02] Number of vehicle models: 0
+[19:54:35] [connection] 127.0.0.1:56922 requests connection cookie.
+[19:54:36] [connection] incoming connection: 127.0.0.1:56922 id: 0
+[19:54:36] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[19:55:01] [npc:join] newdriver has joined the server (199:127.0.0.1)
+[19:57:05] [part] diogodeas1 has left the server (0:1)
+[20:03:49] --- Server Shutting Down.
+[20:03:49] [npc:part] newdriver has left the server (199:0)
+[20:03:50] 
+
+[20:03:50]  ===============================
+
+[20:03:50]      sscanf plugin unloaded.    
+
+[20:03:50]  ===============================
+
+[20:03:50] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:04:15] filterscripts = ""  (string)
+[20:04:15] 
+[20:04:15] Server Plugins
+[20:04:15] --------------
+[20:04:15]  Loading plugin: sscanf
+[20:04:15] 
+
+[20:04:15]  ===============================
+
+[20:04:15]       sscanf plugin loaded.     
+
+[20:04:15]          Version:  2.8.3        
+
+[20:04:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:04:15]  ===============================
+
+[20:04:15]   Loaded.
+[20:04:15]  Loading plugin: FCNPC
+[20:04:15] 
+[20:04:15] -------------------------------------------------
+[20:04:15]      FCNPC - Fully Controllable NPC v2.0.4
+[20:04:15]             Windows SA-MP 0.3.7 R2
+[20:04:15]            Nov 17 2021 at 02:36:40
+[20:04:15] 
+[20:04:15]   Author:       OrMisicL (2013 - 2015)
+[20:04:15]   Continued by: ziggi    (2016 - present)
+[20:04:15] 
+[20:04:15]   See full credits in the README.md file
+[20:04:15] -------------------------------------------------
+[20:04:15] 
+[20:04:15] Loading...
+[20:04:15] 
+[20:04:15] -------------------------------------------------
+[20:04:15]    ColAndreasv1.4.0
+[20:04:15] 
+[20:04:15]    Created By:
+[20:04:15]      [uL]Chris42O
+[20:04:15]      [uL]Slice
+[20:04:15]      [uL]Pottus
+[20:04:15] -------------------------------------------------
+[20:04:15] 
+[20:04:15] Loading...
+[20:04:15] ColAndreas v1.4.0 Loaded.
+[20:04:15]   Loaded.
+[20:04:15]  Loaded 2 plugins.
+
+[20:04:15] 
+[20:04:15] Filterscripts
+[20:04:15] ---------------
+[20:04:15]   Loaded 0 filterscripts.
+
+[20:04:15] No collision data found.
+[20:04:15]  Hello World!
+ 
+[20:04:15] Number of vehicle models: 0
+[20:04:39] [connection] 127.0.0.1:64745 requests connection cookie.
+[20:04:40] [connection] incoming connection: 127.0.0.1:64745 id: 0
+[20:04:40] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[20:05:01] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[20:05:23] [npc:join] Driver_199 has joined the server (198:127.0.0.1)
+[20:06:06] [npc:join] Driver_198 has joined the server (197:127.0.0.1)
+[20:14:05] --- Server Shutting Down.
+[20:14:05] [part] diogodeas1 has left the server (0:0)
+[20:14:05] [npc:part] Driver_198 has left the server (197:0)
+[20:14:05] [npc:part] Driver_199 has left the server (198:0)
+[20:14:05] [npc:part] Driver_200 has left the server (199:0)
+[20:14:05] 
+
+[20:14:05]  ===============================
+
+[20:14:05]      sscanf plugin unloaded.    
+
+[20:14:05]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:14:35] filterscripts = ""  (string)
+[20:14:35] 
+[20:14:35] Server Plugins
+[20:14:35] --------------
+[20:14:35]  Loading plugin: sscanf
+[20:14:35] 
+
+[20:14:35]  ===============================
+
+[20:14:35]       sscanf plugin loaded.     
+
+[20:14:35]          Version:  2.8.3        
+
+[20:14:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:14:35]  ===============================
+
+[20:14:35]   Loaded.
+[20:14:35]  Loading plugin: FCNPC
+[20:14:35] 
+[20:14:35] -------------------------------------------------
+[20:14:35]      FCNPC - Fully Controllable NPC v2.0.4
+[20:14:35]             Windows SA-MP 0.3.7 R2
+[20:14:35]            Nov 17 2021 at 02:36:40
+[20:14:35] 
+[20:14:35]   Author:       OrMisicL (2013 - 2015)
+[20:14:35]   Continued by: ziggi    (2016 - present)
+[20:14:35] 
+[20:14:35]   See full credits in the README.md file
+[20:14:35] -------------------------------------------------
+[20:14:35] 
+[20:14:35] Loading...
+[20:14:35] 
+[20:14:35] -------------------------------------------------
+[20:14:35]    ColAndreasv1.4.0
+[20:14:35] 
+[20:14:35]    Created By:
+[20:14:35]      [uL]Chris42O
+[20:14:35]      [uL]Slice
+[20:14:35]      [uL]Pottus
+[20:14:35] -------------------------------------------------
+[20:14:35] 
+[20:14:35] Loading...
+[20:14:35] ColAndreas v1.4.0 Loaded.
+[20:14:35]   Loaded.
+[20:14:35]  Loaded 2 plugins.
+
+[20:14:35] 
+[20:14:35] Filterscripts
+[20:14:35] ---------------
+[20:14:35]   Loaded 0 filterscripts.
+
+[20:14:35] No collision data found.
+[20:14:35]  Hello World!
+ 
+[20:14:35] Number of vehicle models: 0
+[20:15:03] [connection] 127.0.0.1:63299 requests connection cookie.
+[20:15:04] [connection] incoming connection: 127.0.0.1:63299 id: 0
+[20:15:04] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[20:15:27] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[20:15:59] [npc:join] Driver_199 has joined the server (198:127.0.0.1)
+[20:17:53] [npc:join] Driver_198 has joined the server (197:127.0.0.1)
+[20:18:06] [npc:join] Driver_197 has joined the server (196:127.0.0.1)
+[20:19:51] [part] diogodeas1 has left the server (0:1)
+[20:34:50] --- Server Shutting Down.
+[20:34:50] [npc:part] Driver_197 has left the server (196:0)
+[20:34:50] [npc:part] Driver_198 has left the server (197:0)
+[20:34:50] [npc:part] Driver_199 has left the server (198:0)
+[20:34:50] [npc:part] Driver_200 has left the server (199:0)
+[20:34:51] 
+
+[20:34:51]  ===============================
+
+[20:34:51]      sscanf plugin unloaded.    
+
+[20:34:51]  ===============================
+
+[20:34:51] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:50:01] filterscripts = ""  (string)
+[20:50:01] 
+[20:50:01] Server Plugins
+[20:50:01] --------------
+[20:50:01]  Loading plugin: sscanf
+[20:50:01] 
+
+[20:50:01]  ===============================
+
+[20:50:01]       sscanf plugin loaded.     
+
+[20:50:01]          Version:  2.8.3        
+
+[20:50:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:50:01]  ===============================
+
+[20:50:01]   Loaded.
+[20:50:01]  Loading plugin: FCNPC
+[20:50:02] 
+[20:50:02] -------------------------------------------------
+[20:50:02]      FCNPC - Fully Controllable NPC v2.0.4
+[20:50:02]             Windows SA-MP 0.3.7 R2
+[20:50:02]            Nov 17 2021 at 02:36:40
+[20:50:02] 
+[20:50:02]   Author:       OrMisicL (2013 - 2015)
+[20:50:02]   Continued by: ziggi    (2016 - present)
+[20:50:02] 
+[20:50:02]   See full credits in the README.md file
+[20:50:02] -------------------------------------------------
+[20:50:02] 
+[20:50:02] Loading...
+[20:50:02] 
+[20:50:02] -------------------------------------------------
+[20:50:02]    ColAndreasv1.4.0
+[20:50:02] 
+[20:50:02]    Created By:
+[20:50:02]      [uL]Chris42O
+[20:50:02]      [uL]Slice
+[20:50:02]      [uL]Pottus
+[20:50:02] -------------------------------------------------
+[20:50:02] 
+[20:50:02] Loading...
+[20:50:02] ColAndreas v1.4.0 Loaded.
+[20:50:02]   Loaded.
+[20:50:02]  Loaded 2 plugins.
+
+[20:50:02] 
+[20:50:02] Filterscripts
+[20:50:02] ---------------
+[20:50:02]   Loaded 0 filterscripts.
+
+[20:50:02] No collision data found.
+[20:50:02]  Hello World!
+ 
+[20:50:02] Number of vehicle models: 0
+[20:51:04] [connection] 127.0.0.1:54535 requests connection cookie.
+[20:51:05] [connection] incoming connection: 127.0.0.1:54535 id: 0
+[20:51:05] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[20:51:34] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[20:54:28] --- Server Shutting Down.
+[20:54:28] [part] diogodeas1 has left the server (0:0)
+[20:54:28] [npc:part] Driver_200 has left the server (199:0)
+[20:54:28] 
+
+[20:54:28]  ===============================
+
+[20:54:28]      sscanf plugin unloaded.    
+
+[20:54:28]  ===============================
+
+[20:54:28] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:56:53] filterscripts = ""  (string)
+[20:56:53] 
+[20:56:53] Server Plugins
+[20:56:53] --------------
+[20:56:53]  Loading plugin: sscanf
+[20:56:53] 
+
+[20:56:53]  ===============================
+
+[20:56:53]       sscanf plugin loaded.     
+
+[20:56:53]          Version:  2.8.3        
+
+[20:56:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:56:53]  ===============================
+
+[20:56:53]   Loaded.
+[20:56:53]  Loading plugin: FCNPC
+[20:56:53] 
+[20:56:53] -------------------------------------------------
+[20:56:53]      FCNPC - Fully Controllable NPC v2.0.4
+[20:56:53]             Windows SA-MP 0.3.7 R2
+[20:56:53]            Nov 17 2021 at 02:36:40
+[20:56:53] 
+[20:56:53]   Author:       OrMisicL (2013 - 2015)
+[20:56:53]   Continued by: ziggi    (2016 - present)
+[20:56:53] 
+[20:56:53]   See full credits in the README.md file
+[20:56:53] -------------------------------------------------
+[20:56:53] 
+[20:56:53] Loading...
+[20:56:53] 
+[20:56:53] -------------------------------------------------
+[20:56:53]    ColAndreasv1.4.0
+[20:56:53] 
+[20:56:53]    Created By:
+[20:56:53]      [uL]Chris42O
+[20:56:53]      [uL]Slice
+[20:56:53]      [uL]Pottus
+[20:56:53] -------------------------------------------------
+[20:56:53] 
+[20:56:53] Loading...
+[20:56:53] ColAndreas v1.4.0 Loaded.
+[20:56:53]   Loaded.
+[20:56:53]  Loaded 2 plugins.
+
+[20:56:53] 
+[20:56:53] Filterscripts
+[20:56:53] ---------------
+[20:56:53]   Loaded 0 filterscripts.
+
+[20:56:53] No collision data found.
+[20:56:53]  Hello World!
+ 
+[20:56:53] Number of vehicle models: 0
+[20:57:19] [connection] 127.0.0.1:56885 requests connection cookie.
+[20:57:20] [connection] incoming connection: 127.0.0.1:56885 id: 0
+[20:57:21] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[20:58:01] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[21:01:55] [part] diogodeas1 has left the server (0:1)
+[21:02:27] [connection] 127.0.0.1:53071 requests connection cookie.
+[21:02:28] [connection] incoming connection: 127.0.0.1:53071 id: 0
+[21:02:28] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[21:23:15] [part] diogodeas1 has left the server (0:1)
+[21:39:33] --- Server Shutting Down.
+[21:39:33] [npc:part] Driver_200 has left the server (199:0)
+[21:39:33] 
+
+[21:39:33]  ===============================
+
+[21:39:33]      sscanf plugin unloaded.    
+
+[21:39:33]  ===============================
+
+[21:39:33] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:41:10] filterscripts = ""  (string)
+[21:41:10] 
+[21:41:10] Server Plugins
+[21:41:10] --------------
+[21:41:10]  Loading plugin: sscanf
+[21:41:10] 
+
+[21:41:10]  ===============================
+
+[21:41:10]       sscanf plugin loaded.     
+
+[21:41:10]          Version:  2.8.3        
+
+[21:41:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:41:10]  ===============================
+
+[21:41:10]   Loaded.
+[21:41:10]  Loading plugin: FCNPC
+[21:41:10] 
+[21:41:10] -------------------------------------------------
+[21:41:10]      FCNPC - Fully Controllable NPC v2.0.4
+[21:41:10]             Windows SA-MP 0.3.7 R2
+[21:41:10]            Nov 17 2021 at 02:36:40
+[21:41:10] 
+[21:41:10]   Author:       OrMisicL (2013 - 2015)
+[21:41:10]   Continued by: ziggi    (2016 - present)
+[21:41:10] 
+[21:41:10]   See full credits in the README.md file
+[21:41:10] -------------------------------------------------
+[21:41:10] 
+[21:41:10] Loading...
+[21:41:10] 
+[21:41:10] -------------------------------------------------
+[21:41:10]    ColAndreasv1.4.0
+[21:41:10] 
+[21:41:10]    Created By:
+[21:41:10]      [uL]Chris42O
+[21:41:10]      [uL]Slice
+[21:41:10]      [uL]Pottus
+[21:41:10] -------------------------------------------------
+[21:41:10] 
+[21:41:10] Loading...
+[21:41:10] ColAndreas v1.4.0 Loaded.
+[21:41:10]   Loaded.
+[21:41:10]  Loaded 2 plugins.
+
+[21:41:11] 
+[21:41:11] Filterscripts
+[21:41:11] ---------------
+[21:41:11]   Loaded 0 filterscripts.
+
+[21:41:11] No collision data found.
+[21:41:11]  Hello World!
+ 
+[21:41:11] Number of vehicle models: 0
+[21:41:46] [connection] 127.0.0.1:61344 requests connection cookie.
+[21:41:47] [connection] incoming connection: 127.0.0.1:61344 id: 0
+[21:41:47] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[21:42:07] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[22:07:02] --- Server Shutting Down.
+[22:07:02] [part] diogodeas1 has left the server (0:0)
+[22:07:02] [npc:part] Driver_200 has left the server (199:0)
+[22:07:02] 
+
+[22:07:02]  ===============================
+
+[22:07:02]      sscanf plugin unloaded.    
+
+[22:07:02]  ===============================
+
+[22:07:02] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:07:08] filterscripts = ""  (string)
+[22:07:08] 
+[22:07:08] Server Plugins
+[22:07:08] --------------
+[22:07:08]  Loading plugin: sscanf
+[22:07:08] 
+
+[22:07:08]  ===============================
+
+[22:07:08]       sscanf plugin loaded.     
+
+[22:07:08]          Version:  2.8.3        
+
+[22:07:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:07:08]  ===============================
+
+[22:07:08]   Loaded.
+[22:07:08]  Loading plugin: FCNPC
+[22:07:08] 
+[22:07:08] -------------------------------------------------
+[22:07:08]      FCNPC - Fully Controllable NPC v2.0.4
+[22:07:08]             Windows SA-MP 0.3.7 R2
+[22:07:08]            Nov 17 2021 at 02:36:40
+[22:07:08] 
+[22:07:08]   Author:       OrMisicL (2013 - 2015)
+[22:07:08]   Continued by: ziggi    (2016 - present)
+[22:07:08] 
+[22:07:08]   See full credits in the README.md file
+[22:07:08] -------------------------------------------------
+[22:07:08] 
+[22:07:08] Loading...
+[22:07:08] 
+[22:07:08] -------------------------------------------------
+[22:07:08]    ColAndreasv1.4.0
+[22:07:08] 
+[22:07:08]    Created By:
+[22:07:08]      [uL]Chris42O
+[22:07:08]      [uL]Slice
+[22:07:08]      [uL]Pottus
+[22:07:08] -------------------------------------------------
+[22:07:08] 
+[22:07:08] Loading...
+[22:07:08] ColAndreas v1.4.0 Loaded.
+[22:07:08]   Loaded.
+[22:07:08]  Loaded 2 plugins.
+
+[22:07:08] 
+[22:07:08] Filterscripts
+[22:07:08] ---------------
+[22:07:08]   Loaded 0 filterscripts.
+
+[22:07:08] No collision data found.
+[22:07:08]  Hello World!
+ 
+[22:07:08] Number of vehicle models: 0
+[22:07:35] [connection] 127.0.0.1:51325 requests connection cookie.
+[22:07:36] [connection] incoming connection: 127.0.0.1:51325 id: 0
+[22:07:37] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[22:08:08] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[22:08:42] [npc:part] Driver_200 has left the server (199:0)
+[22:09:03] [npc:join] Driver_201 has joined the server (199:127.0.0.1)
+[22:09:22] [npc:join] Driver_200 has joined the server (198:127.0.0.1)
+[22:09:43] [npc:part] Driver_201 has left the server (199:0)
+[22:27:33] --- Server Shutting Down.
+[22:27:33] [part] diogodeas1 has left the server (0:0)
+[22:27:33] [npc:part] Driver_200 has left the server (198:0)
+[22:27:34] 
+
+[22:27:34]  ===============================
+
+[22:27:34]      sscanf plugin unloaded.    
+
+[22:27:34]  ===============================
+
+[22:27:34] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:27:40] filterscripts = ""  (string)
+[22:27:40] 
+[22:27:40] Server Plugins
+[22:27:40] --------------
+[22:27:40]  Loading plugin: sscanf
+[22:27:40] 
+
+[22:27:40]  ===============================
+
+[22:27:40]       sscanf plugin loaded.     
+
+[22:27:40]          Version:  2.8.3        
+
+[22:27:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:27:40]  ===============================
+
+[22:27:40]   Loaded.
+[22:27:40]  Loading plugin: FCNPC
+[22:27:40] 
+[22:27:40] -------------------------------------------------
+[22:27:40]      FCNPC - Fully Controllable NPC v2.0.4
+[22:27:40]             Windows SA-MP 0.3.7 R2
+[22:27:40]            Nov 17 2021 at 02:36:40
+[22:27:40] 
+[22:27:40]   Author:       OrMisicL (2013 - 2015)
+[22:27:40]   Continued by: ziggi    (2016 - present)
+[22:27:40] 
+[22:27:40]   See full credits in the README.md file
+[22:27:40] -------------------------------------------------
+[22:27:40] 
+[22:27:40] Loading...
+[22:27:40] 
+[22:27:40] -------------------------------------------------
+[22:27:40]    ColAndreasv1.4.0
+[22:27:40] 
+[22:27:40]    Created By:
+[22:27:40]      [uL]Chris42O
+[22:27:40]      [uL]Slice
+[22:27:40]      [uL]Pottus
+[22:27:40] -------------------------------------------------
+[22:27:40] 
+[22:27:40] Loading...
+[22:27:40] ColAndreas v1.4.0 Loaded.
+[22:27:40]   Loaded.
+[22:27:40]  Loaded 2 plugins.
+
+[22:27:40] 
+[22:27:40] Filterscripts
+[22:27:40] ---------------
+[22:27:40]   Loaded 0 filterscripts.
+
+[22:27:40] No collision data found.
+[22:27:40]  Hello World!
+ 
+[22:27:40] Number of vehicle models: 0
+[22:28:07] [connection] 127.0.0.1:60124 requests connection cookie.
+[22:28:08] [connection] incoming connection: 127.0.0.1:60124 id: 0
+[22:28:08] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[22:28:52] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[22:29:25] [npc:part] Driver_200 has left the server (199:0)
+[22:36:44] Only create trains with AddStaticVehicle/Ex
+[22:36:57] Only create trains with AddStaticVehicle/Ex
+[22:37:15] Only create trains with AddStaticVehicle/Ex
+[22:39:55] [part] diogodeas1 has left the server (0:1)
+[22:43:36] --- Server Shutting Down.
+[22:43:36] 
+
+[22:43:36]  ===============================
+
+[22:43:36]      sscanf plugin unloaded.    
+
+[22:43:36]  ===============================
+
+[22:43:36] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:43:41] filterscripts = ""  (string)
+[22:43:41] 
+[22:43:41] Server Plugins
+[22:43:41] --------------
+[22:43:41]  Loading plugin: sscanf
+[22:43:41] 
+
+[22:43:41]  ===============================
+
+[22:43:41]       sscanf plugin loaded.     
+
+[22:43:41]          Version:  2.8.3        
+
+[22:43:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:43:41]  ===============================
+
+[22:43:41]   Loaded.
+[22:43:41]  Loading plugin: FCNPC
+[22:43:41] 
+[22:43:41] -------------------------------------------------
+[22:43:41]      FCNPC - Fully Controllable NPC v2.0.4
+[22:43:41]             Windows SA-MP 0.3.7 R2
+[22:43:41]            Nov 17 2021 at 02:36:40
+[22:43:41] 
+[22:43:41]   Author:       OrMisicL (2013 - 2015)
+[22:43:41]   Continued by: ziggi    (2016 - present)
+[22:43:41] 
+[22:43:41]   See full credits in the README.md file
+[22:43:41] -------------------------------------------------
+[22:43:41] 
+[22:43:41] Loading...
+[22:43:41] 
+[22:43:41] -------------------------------------------------
+[22:43:41]    ColAndreasv1.4.0
+[22:43:41] 
+[22:43:41]    Created By:
+[22:43:41]      [uL]Chris42O
+[22:43:41]      [uL]Slice
+[22:43:41]      [uL]Pottus
+[22:43:41] -------------------------------------------------
+[22:43:41] 
+[22:43:41] Loading...
+[22:43:41] ColAndreas v1.4.0 Loaded.
+[22:43:41]   Loaded.
+[22:43:41]  Loaded 2 plugins.
+
+[22:43:41] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:43:41] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:44:30] filterscripts = ""  (string)
+[22:44:30] 
+[22:44:30] Server Plugins
+[22:44:30] --------------
+[22:44:30]  Loading plugin: sscanf
+[22:44:30] 
+
+[22:44:30]  ===============================
+
+[22:44:30]       sscanf plugin loaded.     
+
+[22:44:30]          Version:  2.8.3        
+
+[22:44:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:44:30]  ===============================
+
+[22:44:30]   Loaded.
+[22:44:30]  Loading plugin: FCNPC
+[22:44:30] 
+[22:44:30] -------------------------------------------------
+[22:44:30]      FCNPC - Fully Controllable NPC v2.0.4
+[22:44:30]             Windows SA-MP 0.3.7 R2
+[22:44:30]            Nov 17 2021 at 02:36:40
+[22:44:30] 
+[22:44:30]   Author:       OrMisicL (2013 - 2015)
+[22:44:30]   Continued by: ziggi    (2016 - present)
+[22:44:30] 
+[22:44:30]   See full credits in the README.md file
+[22:44:30] -------------------------------------------------
+[22:44:30] 
+[22:44:30] Loading...
+[22:44:30] 
+[22:44:30] -------------------------------------------------
+[22:44:30]    ColAndreasv1.4.0
+[22:44:30] 
+[22:44:30]    Created By:
+[22:44:30]      [uL]Chris42O
+[22:44:30]      [uL]Slice
+[22:44:30]      [uL]Pottus
+[22:44:30] -------------------------------------------------
+[22:44:30] 
+[22:44:30] Loading...
+[22:44:30] ColAndreas v1.4.0 Loaded.
+[22:44:30]   Loaded.
+[22:44:30]  Loaded 2 plugins.
+
+[22:44:30] 
+[22:44:30] Filterscripts
+[22:44:30] ---------------
+[22:44:30]   Loaded 0 filterscripts.
+
+[22:44:30] No collision data found.
+[22:44:30]  Hello World!
+ 
+[22:44:30] Number of vehicle models: 0
+[22:48:29] --- Server Shutting Down.
+[22:48:29] 
+
+[22:48:29]  ===============================
+
+[22:48:29]      sscanf plugin unloaded.    
+
+[22:48:29]  ===============================
+
+[22:48:29] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:49:12] filterscripts = ""  (string)
+[22:49:12] 
+[22:49:12] Server Plugins
+[22:49:12] --------------
+[22:49:12]  Loading plugin: sscanf
+[22:49:12] 
+
+[22:49:12]  ===============================
+
+[22:49:12]       sscanf plugin loaded.     
+
+[22:49:12]          Version:  2.8.3        
+
+[22:49:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:49:12]  ===============================
+
+[22:49:12]   Loaded.
+[22:49:12]  Loading plugin: FCNPC
+[22:49:12] 
+[22:49:12] -------------------------------------------------
+[22:49:12]      FCNPC - Fully Controllable NPC v2.0.4
+[22:49:12]             Windows SA-MP 0.3.7 R2
+[22:49:12]            Nov 17 2021 at 02:36:40
+[22:49:12] 
+[22:49:12]   Author:       OrMisicL (2013 - 2015)
+[22:49:12]   Continued by: ziggi    (2016 - present)
+[22:49:12] 
+[22:49:12]   See full credits in the README.md file
+[22:49:12] -------------------------------------------------
+[22:49:12] 
+[22:49:12] Loading...
+[22:49:12] 
+[22:49:12] -------------------------------------------------
+[22:49:12]    ColAndreasv1.4.0
+[22:49:12] 
+[22:49:12]    Created By:
+[22:49:12]      [uL]Chris42O
+[22:49:12]      [uL]Slice
+[22:49:12]      [uL]Pottus
+[22:49:12] -------------------------------------------------
+[22:49:12] 
+[22:49:12] Loading...
+[22:49:12] ColAndreas v1.4.0 Loaded.
+[22:49:12]   Loaded.
+[22:49:12]  Loaded 2 plugins.
+
+[22:49:12] 
+[22:49:12] Filterscripts
+[22:49:12] ---------------
+[22:49:12]   Loaded 0 filterscripts.
+
+[22:49:12] No collision data found.
+[22:49:12]  Hello World!
+ 
+[22:49:12] Number of vehicle models: 0
+[22:49:44] [connection] 127.0.0.1:63304 requests connection cookie.
+[22:49:45] [connection] incoming connection: 127.0.0.1:63304 id: 0
+[22:49:45] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[22:50:09] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[22:50:26] [npc:part] Driver_200 has left the server (199:0)
+[22:50:38] [part] diogodeas1 has left the server (0:1)
+[22:50:58] --- Server Shutting Down.
+[22:50:58] 
+
+[22:50:58]  ===============================
+
+[22:50:58]      sscanf plugin unloaded.    
+
+[22:50:58]  ===============================
+
+[22:50:58] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:08:15] filterscripts = ""  (string)
+[16:08:15] 
+[16:08:15] Server Plugins
+[16:08:15] --------------
+[16:08:15]  Loading plugin: sscanf
+[16:08:16] 
+
+[16:08:16]  ===============================
+
+[16:08:16]       sscanf plugin loaded.     
+
+[16:08:16]          Version:  2.8.3        
+
+[16:08:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:08:16]  ===============================
+
+[16:08:16]   Loaded.
+[16:08:16]  Loading plugin: FCNPC
+[16:08:16] 
+[16:08:16] -------------------------------------------------
+[16:08:16]      FCNPC - Fully Controllable NPC v2.0.4
+[16:08:16]             Windows SA-MP 0.3.7 R2
+[16:08:16]            Nov 17 2021 at 02:36:40
+[16:08:16] 
+[16:08:16]   Author:       OrMisicL (2013 - 2015)
+[16:08:16]   Continued by: ziggi    (2016 - present)
+[16:08:16] 
+[16:08:16]   See full credits in the README.md file
+[16:08:16] -------------------------------------------------
+[16:08:16] 
+[16:08:16] Loading...
+[16:08:16] 
+[16:08:16] -------------------------------------------------
+[16:08:16]    ColAndreasv1.4.0
+[16:08:16] 
+[16:08:16]    Created By:
+[16:08:16]      [uL]Chris42O
+[16:08:16]      [uL]Slice
+[16:08:16]      [uL]Pottus
+[16:08:16] -------------------------------------------------
+[16:08:16] 
+[16:08:16] Loading...
+[16:08:16] ColAndreas v1.4.0 Loaded.
+[16:08:16]   Loaded.
+[16:08:16]  Loaded 2 plugins.
+
+[16:08:16] 
+[16:08:16] Filterscripts
+[16:08:16] ---------------
+[16:08:16]   Loaded 0 filterscripts.
+
+[16:08:16] No collision data found.
+[16:08:16]  Hello World!
+ 
+[16:08:16] Number of vehicle models: 0
+[16:09:03] [connection] 127.0.0.1:56705 requests connection cookie.
+[16:09:04] [connection] incoming connection: 127.0.0.1:56705 id: 0
+[16:09:04] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:09:22] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[16:09:38] [npc:part] Driver_200 has left the server (199:0)
+[16:09:50] [npc:join] Driver_201 has joined the server (199:127.0.0.1)
+[16:15:06] --- Server Shutting Down.
+[16:15:06] [part] diogodeas1 has left the server (0:0)
+[16:15:06] [npc:part] Driver_201 has left the server (199:0)
+[16:15:06] 
+
+[16:15:06]  ===============================
+
+[16:15:06]      sscanf plugin unloaded.    
+
+[16:15:06]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:15:16] filterscripts = ""  (string)
+[16:15:16] 
+[16:15:16] Server Plugins
+[16:15:16] --------------
+[16:15:16]  Loading plugin: sscanf
+[16:15:16] 
+
+[16:15:16]  ===============================
+
+[16:15:16]       sscanf plugin loaded.     
+
+[16:15:16]          Version:  2.8.3        
+
+[16:15:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:15:16]  ===============================
+
+[16:15:16]   Loaded.
+[16:15:16]  Loading plugin: FCNPC
+[16:15:16] 
+[16:15:16] -------------------------------------------------
+[16:15:16]      FCNPC - Fully Controllable NPC v2.0.4
+[16:15:16]             Windows SA-MP 0.3.7 R2
+[16:15:16]            Nov 17 2021 at 02:36:40
+[16:15:16] 
+[16:15:16]   Author:       OrMisicL (2013 - 2015)
+[16:15:16]   Continued by: ziggi    (2016 - present)
+[16:15:16] 
+[16:15:16]   See full credits in the README.md file
+[16:15:16] -------------------------------------------------
+[16:15:16] 
+[16:15:16] Loading...
+[16:15:16] 
+[16:15:16] -------------------------------------------------
+[16:15:16]    ColAndreasv1.4.0
+[16:15:16] 
+[16:15:16]    Created By:
+[16:15:16]      [uL]Chris42O
+[16:15:16]      [uL]Slice
+[16:15:16]      [uL]Pottus
+[16:15:16] -------------------------------------------------
+[16:15:16] 
+[16:15:16] Loading...
+[16:15:16] ColAndreas v1.4.0 Loaded.
+[16:15:16]   Loaded.
+[16:15:16]  Loaded 2 plugins.
+
+[16:15:16] 
+[16:15:16] Filterscripts
+[16:15:16] ---------------
+[16:15:16]   Loaded 0 filterscripts.
+
+[16:15:16] No collision data found.
+[16:15:16]  Hello World!
+ 
+[16:15:16] Number of vehicle models: 0
+[16:15:44] [connection] 127.0.0.1:62368 requests connection cookie.
+[16:15:45] [connection] incoming connection: 127.0.0.1:62368 id: 0
+[16:15:45] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:15:57] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[16:18:00] --- Server Shutting Down.
+[16:18:00] [part] diogodeas1 has left the server (0:0)
+[16:18:00] [npc:part] Driver_200 has left the server (199:0)
+[16:18:00] 
+
+[16:18:00]  ===============================
+
+[16:18:00]      sscanf plugin unloaded.    
+
+[16:18:00]  ===============================
+
+[16:18:00] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:18:04] filterscripts = ""  (string)
+[16:18:04] 
+[16:18:04] Server Plugins
+[16:18:04] --------------
+[16:18:04]  Loading plugin: sscanf
+[16:18:04] 
+
+[16:18:04]  ===============================
+
+[16:18:04]       sscanf plugin loaded.     
+
+[16:18:04]          Version:  2.8.3        
+
+[16:18:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:18:04]  ===============================
+
+[16:18:04]   Loaded.
+[16:18:04]  Loading plugin: FCNPC
+[16:18:04] 
+[16:18:04] -------------------------------------------------
+[16:18:04]      FCNPC - Fully Controllable NPC v2.0.4
+[16:18:04]             Windows SA-MP 0.3.7 R2
+[16:18:04]            Nov 17 2021 at 02:36:40
+[16:18:04] 
+[16:18:04]   Author:       OrMisicL (2013 - 2015)
+[16:18:04]   Continued by: ziggi    (2016 - present)
+[16:18:04] 
+[16:18:04]   See full credits in the README.md file
+[16:18:04] -------------------------------------------------
+[16:18:04] 
+[16:18:04] Loading...
+[16:18:04] 
+[16:18:04] -------------------------------------------------
+[16:18:04]    ColAndreasv1.4.0
+[16:18:04] 
+[16:18:04]    Created By:
+[16:18:04]      [uL]Chris42O
+[16:18:04]      [uL]Slice
+[16:18:04]      [uL]Pottus
+[16:18:04] -------------------------------------------------
+[16:18:04] 
+[16:18:04] Loading...
+[16:18:04] ColAndreas v1.4.0 Loaded.
+[16:18:04]   Loaded.
+[16:18:04]  Loaded 2 plugins.
+
+[16:18:04] 
+[16:18:04] Filterscripts
+[16:18:04] ---------------
+[16:18:04]   Loaded 0 filterscripts.
+
+[16:18:04] No collision data found.
+[16:18:04]  Hello World!
+ 
+[16:18:04] Number of vehicle models: 0
+[16:18:32] [connection] 127.0.0.1:65123 requests connection cookie.
+[16:18:33] [connection] incoming connection: 127.0.0.1:65123 id: 0
+[16:18:33] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:18:49] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[16:19:07] [npc:join] Driver_199 has joined the server (198:127.0.0.1)
+[16:19:35] [npc:join] Driver_198 has joined the server (197:127.0.0.1)
+[16:19:56] [npc:part] Driver_198 has left the server (197:0)
+[16:22:43] --- Server Shutting Down.
+[16:22:43] [part] diogodeas1 has left the server (0:0)
+[16:22:43] [npc:part] Driver_199 has left the server (198:0)
+[16:22:43] [npc:part] Driver_200 has left the server (199:0)
+[16:22:43] 
+
+[16:22:43]  ===============================
+
+[16:22:43]      sscanf plugin unloaded.    
+
+[16:22:43]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:22:48] filterscripts = ""  (string)
+[16:22:48] 
+[16:22:48] Server Plugins
+[16:22:48] --------------
+[16:22:48]  Loading plugin: sscanf
+[16:22:48] 
+
+[16:22:48]  ===============================
+
+[16:22:48]       sscanf plugin loaded.     
+
+[16:22:48]          Version:  2.8.3        
+
+[16:22:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:22:48]  ===============================
+
+[16:22:48]   Loaded.
+[16:22:48]  Loading plugin: FCNPC
+[16:22:48] 
+[16:22:48] -------------------------------------------------
+[16:22:48]      FCNPC - Fully Controllable NPC v2.0.4
+[16:22:48]             Windows SA-MP 0.3.7 R2
+[16:22:48]            Nov 17 2021 at 02:36:40
+[16:22:48] 
+[16:22:48]   Author:       OrMisicL (2013 - 2015)
+[16:22:48]   Continued by: ziggi    (2016 - present)
+[16:22:48] 
+[16:22:48]   See full credits in the README.md file
+[16:22:48] -------------------------------------------------
+[16:22:48] 
+[16:22:48] Loading...
+[16:22:48] 
+[16:22:48] -------------------------------------------------
+[16:22:48]    ColAndreasv1.4.0
+[16:22:48] 
+[16:22:48]    Created By:
+[16:22:48]      [uL]Chris42O
+[16:22:48]      [uL]Slice
+[16:22:48]      [uL]Pottus
+[16:22:48] -------------------------------------------------
+[16:22:48] 
+[16:22:48] Loading...
+[16:22:48] ColAndreas v1.4.0 Loaded.
+[16:22:48]   Loaded.
+[16:22:48]  Loaded 2 plugins.
+
+[16:22:48] 
+[16:22:48] Filterscripts
+[16:22:48] ---------------
+[16:22:48]   Loaded 0 filterscripts.
+
+[16:22:49] No collision data found.
+[16:22:49]  Hello World!
+ 
+[16:22:49] Number of vehicle models: 0
+[16:23:18] [connection] 127.0.0.1:60646 requests connection cookie.
+[16:23:19] [connection] incoming connection: 127.0.0.1:60646 id: 0
+[16:23:19] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:23:45] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[16:24:09] [npc:join] Driver_199 has joined the server (198:127.0.0.1)
+[16:25:56] [npc:part] Driver_200 has left the server (199:0)
+[16:26:48] [npc:part] Driver_199 has left the server (198:0)
+[16:26:58] [part] diogodeas1 has left the server (0:1)
+[16:53:30] [connection] 127.0.0.1:54559 requests connection cookie.
+[16:53:31] [connection] incoming connection: 127.0.0.1:54559 id: 0
+[16:53:31] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:54:39] [npc:join] Driver_200 has joined the server (199:127.0.0.1)
+[16:54:50] [npc:part] Driver_200 has left the server (199:0)
+[16:55:03] [npc:join] Driver_201 has joined the server (199:127.0.0.1)
+[16:56:45] [npc:part] Driver_201 has left the server (199:0)
+[16:57:08] [npc:join] Driver_201 has joined the server (199:127.0.0.1)
+[16:57:18] [npc:join] Driver_200 has joined the server (198:127.0.0.1)
+[17:17:06] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:19:01] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:21:21] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:23:42] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:25:57] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:27:41] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:28:33] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:28:58] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:29:42] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:30:23] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:43:28] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:44:11] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:45:40] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:45:52] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:49:07] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:56:12] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:56:20] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:56:43] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:57:24] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[17:59:06] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:01:29] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:01:54] [part] diogodeas1 has left the server (0:1)
+[19:11:38] --- Server Shutting Down.
+[19:11:38] [npc:part] Driver_200 has left the server (198:0)
+[19:11:38] [npc:part] Driver_201 has left the server (199:0)
+[19:11:38] 
+
+[19:11:38]  ===============================
+
+[19:11:38]      sscanf plugin unloaded.    
+
+[19:11:38]  ===============================
+
+[19:11:38] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:36:31] filterscripts = ""  (string)
+[14:36:31] 
+[14:36:31] Server Plugins
+[14:36:31] --------------
+[14:36:31]  Loading plugin: sscanf
+[14:36:31] 
+
+[14:36:31]  ===============================
+
+[14:36:31]       sscanf plugin loaded.     
+
+[14:36:31]          Version:  2.8.3        
+
+[14:36:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:36:31]  ===============================
+
+[14:36:31]   Loaded.
+[14:36:31]  Loading plugin: FCNPC
+[14:36:32] 
+[14:36:32] -------------------------------------------------
+[14:36:32]      FCNPC - Fully Controllable NPC v2.0.4
+[14:36:32]             Windows SA-MP 0.3.7 R2
+[14:36:32]            Nov 17 2021 at 02:36:40
+[14:36:32] 
+[14:36:32]   Author:       OrMisicL (2013 - 2015)
+[14:36:32]   Continued by: ziggi    (2016 - present)
+[14:36:32] 
+[14:36:32]   See full credits in the README.md file
+[14:36:32] -------------------------------------------------
+[14:36:32] 
+[14:36:32] Loading...
+[14:36:32] 
+[14:36:32] -------------------------------------------------
+[14:36:32]    ColAndreasv1.4.0
+[14:36:32] 
+[14:36:32]    Created By:
+[14:36:32]      [uL]Chris42O
+[14:36:32]      [uL]Slice
+[14:36:32]      [uL]Pottus
+[14:36:32] -------------------------------------------------
+[14:36:32] 
+[14:36:32] Loading...
+[14:36:32] ColAndreas v1.4.0 Loaded.
+[14:36:32]   Loaded.
+[14:36:32]  Loaded 2 plugins.
+
+[14:36:32] 
+[14:36:32] Filterscripts
+[14:36:32] ---------------
+[14:36:32]   Loaded 0 filterscripts.
+
+[14:36:32] No collision data found.
+[14:36:32]  Hello World!
+ 
+[14:36:32] Number of vehicle models: 0
+[14:39:48] [connection] 127.0.0.1:52520 requests connection cookie.
+[14:39:49] [connection] incoming connection: 127.0.0.1:52520 id: 0
+[14:39:50] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[14:41:35] [part] diogodeas1 has left the server (0:1)
+[14:44:24] --- Server Shutting Down.
+[14:44:24] 
+
+[14:44:24]  ===============================
+
+[14:44:24]      sscanf plugin unloaded.    
+
+[14:44:24]  ===============================
+
+[14:44:24] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:44:33] filterscripts = ""  (string)
+[14:44:33] 
+[14:44:33] Server Plugins
+[14:44:33] --------------
+[14:44:33]  Loading plugin: sscanf
+[14:44:33] 
+
+[14:44:33]  ===============================
+
+[14:44:33]       sscanf plugin loaded.     
+
+[14:44:33]          Version:  2.8.3        
+
+[14:44:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:44:33]  ===============================
+
+[14:44:33]   Loaded.
+[14:44:33]  Loading plugin: FCNPC
+[14:44:33] 
+[14:44:33] -------------------------------------------------
+[14:44:33]      FCNPC - Fully Controllable NPC v2.0.4
+[14:44:33]             Windows SA-MP 0.3.7 R2
+[14:44:33]            Nov 17 2021 at 02:36:40
+[14:44:33] 
+[14:44:33]   Author:       OrMisicL (2013 - 2015)
+[14:44:33]   Continued by: ziggi    (2016 - present)
+[14:44:33] 
+[14:44:33]   See full credits in the README.md file
+[14:44:33] -------------------------------------------------
+[14:44:33] 
+[14:44:33] Loading...
+[14:44:33] 
+[14:44:33] -------------------------------------------------
+[14:44:33]    ColAndreasv1.4.0
+[14:44:33] 
+[14:44:33]    Created By:
+[14:44:33]      [uL]Chris42O
+[14:44:33]      [uL]Slice
+[14:44:33]      [uL]Pottus
+[14:44:33] -------------------------------------------------
+[14:44:33] 
+[14:44:33] Loading...
+[14:44:33] ColAndreas v1.4.0 Loaded.
+[14:44:33]   Loaded.
+[14:44:33]  Loaded 2 plugins.
+
+[14:44:33] I couldn't load any gamemode scripts. Please verify your server.cfg
+[14:44:33] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:45:01] filterscripts = ""  (string)
+[14:45:01] 
+[14:45:01] Server Plugins
+[14:45:01] --------------
+[14:45:01]  Loading plugin: sscanf
+[14:45:01] 
+
+[14:45:01]  ===============================
+
+[14:45:01]       sscanf plugin loaded.     
+
+[14:45:01]          Version:  2.8.3        
+
+[14:45:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:45:01]  ===============================
+
+[14:45:01]   Loaded.
+[14:45:01]  Loading plugin: FCNPC
+[14:45:01] 
+[14:45:01] -------------------------------------------------
+[14:45:01]      FCNPC - Fully Controllable NPC v2.0.4
+[14:45:01]             Windows SA-MP 0.3.7 R2
+[14:45:01]            Nov 17 2021 at 02:36:40
+[14:45:01] 
+[14:45:01]   Author:       OrMisicL (2013 - 2015)
+[14:45:01]   Continued by: ziggi    (2016 - present)
+[14:45:01] 
+[14:45:01]   See full credits in the README.md file
+[14:45:01] -------------------------------------------------
+[14:45:01] 
+[14:45:01] Loading...
+[14:45:01] 
+[14:45:01] -------------------------------------------------
+[14:45:01]    ColAndreasv1.4.0
+[14:45:01] 
+[14:45:01]    Created By:
+[14:45:01]      [uL]Chris42O
+[14:45:01]      [uL]Slice
+[14:45:01]      [uL]Pottus
+[14:45:01] -------------------------------------------------
+[14:45:01] 
+[14:45:01] Loading...
+[14:45:01] ColAndreas v1.4.0 Loaded.
+[14:45:01]   Loaded.
+[14:45:01]  Loaded 2 plugins.
+
+[14:45:01] 
+[14:45:01] Filterscripts
+[14:45:01] ---------------
+[14:45:01]   Loaded 0 filterscripts.
+
+[14:45:02] No collision data found.
+[14:45:02]  Hello World!
+ 
+[14:45:02] Number of vehicle models: 0
+[14:45:25] [connection] 127.0.0.1:61119 requests connection cookie.
+[14:45:26] [connection] incoming connection: 127.0.0.1:61119 id: 0
+[14:45:27] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[14:45:59] [part] diogodeas1 has left the server (0:1)
+[14:46:25] --- Server Shutting Down.
+[14:46:25] 
+
+[14:46:25]  ===============================
+
+[14:46:25]      sscanf plugin unloaded.    
+
+[14:46:25]  ===============================
+
+[14:46:25] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:46:30] filterscripts = ""  (string)
+[14:46:30] 
+[14:46:30] Server Plugins
+[14:46:30] --------------
+[14:46:30]  Loading plugin: sscanf
+[14:46:30] 
+
+[14:46:30]  ===============================
+
+[14:46:30]       sscanf plugin loaded.     
+
+[14:46:30]          Version:  2.8.3        
+
+[14:46:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:46:30]  ===============================
+
+[14:46:30]   Loaded.
+[14:46:30]  Loading plugin: FCNPC
+[14:46:30] 
+[14:46:30] -------------------------------------------------
+[14:46:30]      FCNPC - Fully Controllable NPC v2.0.4
+[14:46:30]             Windows SA-MP 0.3.7 R2
+[14:46:30]            Nov 17 2021 at 02:36:40
+[14:46:30] 
+[14:46:30]   Author:       OrMisicL (2013 - 2015)
+[14:46:30]   Continued by: ziggi    (2016 - present)
+[14:46:30] 
+[14:46:30]   See full credits in the README.md file
+[14:46:30] -------------------------------------------------
+[14:46:30] 
+[14:46:30] Loading...
+[14:46:30] 
+[14:46:30] -------------------------------------------------
+[14:46:30]    ColAndreasv1.4.0
+[14:46:30] 
+[14:46:30]    Created By:
+[14:46:30]      [uL]Chris42O
+[14:46:30]      [uL]Slice
+[14:46:30]      [uL]Pottus
+[14:46:30] -------------------------------------------------
+[14:46:30] 
+[14:46:30] Loading...
+[14:46:30] ColAndreas v1.4.0 Loaded.
+[14:46:30]   Loaded.
+[14:46:30]  Loaded 2 plugins.
+
+[14:46:30] 
+[14:46:30] Filterscripts
+[14:46:30] ---------------
+[14:46:30]   Loaded 0 filterscripts.
+
+[14:46:30] No collision data found.
+[14:46:30]  Hello World!
+ 
+[14:46:30] Number of vehicle models: 0
+[14:46:52] [connection] 127.0.0.1:57646 requests connection cookie.
+[14:46:53] [connection] incoming connection: 127.0.0.1:57646 id: 0
+[14:46:54] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[14:54:21] --- Server Shutting Down.
+[14:54:21] [part] diogodeas1 has left the server (0:0)
+[14:54:21] 
+
+[14:54:21]  ===============================
+
+[14:54:21]      sscanf plugin unloaded.    
+
+[14:54:21]  ===============================
+
+[14:54:21] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:54:33] filterscripts = ""  (string)
+[14:54:33] 
+[14:54:33] Server Plugins
+[14:54:33] --------------
+[14:54:33]  Loading plugin: sscanf
+[14:54:33] 
+
+[14:54:33]  ===============================
+
+[14:54:33]       sscanf plugin loaded.     
+
+[14:54:33]          Version:  2.8.3        
+
+[14:54:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:54:33]  ===============================
+
+[14:54:33]   Loaded.
+[14:54:33]  Loading plugin: FCNPC
+[14:54:33] 
+[14:54:33] -------------------------------------------------
+[14:54:33]      FCNPC - Fully Controllable NPC v2.0.4
+[14:54:33]             Windows SA-MP 0.3.7 R2
+[14:54:33]            Nov 17 2021 at 02:36:40
+[14:54:33] 
+[14:54:33]   Author:       OrMisicL (2013 - 2015)
+[14:54:33]   Continued by: ziggi    (2016 - present)
+[14:54:33] 
+[14:54:33]   See full credits in the README.md file
+[14:54:33] -------------------------------------------------
+[14:54:33] 
+[14:54:33] Loading...
+[14:54:33] 
+[14:54:33] -------------------------------------------------
+[14:54:33]    ColAndreasv1.4.0
+[14:54:33] 
+[14:54:33]    Created By:
+[14:54:33]      [uL]Chris42O
+[14:54:33]      [uL]Slice
+[14:54:33]      [uL]Pottus
+[14:54:33] -------------------------------------------------
+[14:54:33] 
+[14:54:33] Loading...
+[14:54:33] ColAndreas v1.4.0 Loaded.
+[14:54:33]   Loaded.
+[14:54:33]  Loaded 2 plugins.
+
+[14:54:33] 
+[14:54:33] Filterscripts
+[14:54:33] ---------------
+[14:54:33]   Loaded 0 filterscripts.
+
+[14:54:33] No collision data found.
+[14:54:33]  Hello World!
+ 
+[14:54:33] Number of vehicle models: 0
+[14:55:12] [connection] 127.0.0.1:49674 requests connection cookie.
+[14:55:13] [connection] incoming connection: 127.0.0.1:49674 id: 0
+[14:55:13] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[14:56:58] [part] diogodeas1 has left the server (0:1)
+[14:57:09] --- Server Shutting Down.
+[14:57:09] 
+
+[14:57:09]  ===============================
+
+[14:57:09]      sscanf plugin unloaded.    
+
+[14:57:09]  ===============================
+
+[14:57:09] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:42:12] filterscripts = ""  (string)
+[16:42:12] 
+[16:42:12] Server Plugins
+[16:42:12] --------------
+[16:42:12]  Loading plugin: sscanf
+[16:42:12] 
+
+[16:42:12]  ===============================
+
+[16:42:12]       sscanf plugin loaded.     
+
+[16:42:12]          Version:  2.8.3        
+
+[16:42:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:42:12]  ===============================
+
+[16:42:12]   Loaded.
+[16:42:12]  Loading plugin: FCNPC
+[16:42:12] 
+[16:42:12] -------------------------------------------------
+[16:42:12]      FCNPC - Fully Controllable NPC v2.0.4
+[16:42:12]             Windows SA-MP 0.3.7 R2
+[16:42:12]            Nov 17 2021 at 02:36:40
+[16:42:12] 
+[16:42:12]   Author:       OrMisicL (2013 - 2015)
+[16:42:12]   Continued by: ziggi    (2016 - present)
+[16:42:12] 
+[16:42:12]   See full credits in the README.md file
+[16:42:12] -------------------------------------------------
+[16:42:12] 
+[16:42:12] Loading...
+[16:42:12] 
+[16:42:12] -------------------------------------------------
+[16:42:12]    ColAndreasv1.4.0
+[16:42:12] 
+[16:42:12]    Created By:
+[16:42:12]      [uL]Chris42O
+[16:42:12]      [uL]Slice
+[16:42:12]      [uL]Pottus
+[16:42:12] -------------------------------------------------
+[16:42:12] 
+[16:42:12] Loading...
+[16:42:12] ColAndreas v1.4.0 Loaded.
+[16:42:12]   Loaded.
+[16:42:12]  Loaded 2 plugins.
+
+[16:42:12] 
+[16:42:12] Filterscripts
+[16:42:12] ---------------
+[16:42:12]   Loaded 0 filterscripts.
+
+[16:42:12] No collision data found.
+[16:42:12]  Hello World!
+ 
+[16:42:12] Number of vehicle models: 0
+[16:42:48] [connection] 127.0.0.1:59222 requests connection cookie.
+[16:42:50] [connection] incoming connection: 127.0.0.1:59222 id: 0
+[16:42:50] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:45:08] [part] diogodeas1 has left the server (0:1)
+[16:45:18] --- Server Shutting Down.
+[16:45:18] 
+
+[16:45:18]  ===============================
+
+[16:45:18]      sscanf plugin unloaded.    
+
+[16:45:18]  ===============================
+
+[16:45:18] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:45:21] filterscripts = ""  (string)
+[16:45:21] 
+[16:45:21] Server Plugins
+[16:45:21] --------------
+[16:45:21]  Loading plugin: sscanf
+[16:45:21] 
+
+[16:45:21]  ===============================
+
+[16:45:21]       sscanf plugin loaded.     
+
+[16:45:21]          Version:  2.8.3        
+
+[16:45:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:45:21]  ===============================
+
+[16:45:21]   Loaded.
+[16:45:21]  Loading plugin: FCNPC
+[16:45:21] 
+[16:45:21] -------------------------------------------------
+[16:45:21]      FCNPC - Fully Controllable NPC v2.0.4
+[16:45:21]             Windows SA-MP 0.3.7 R2
+[16:45:21]            Nov 17 2021 at 02:36:40
+[16:45:21] 
+[16:45:21]   Author:       OrMisicL (2013 - 2015)
+[16:45:21]   Continued by: ziggi    (2016 - present)
+[16:45:21] 
+[16:45:21]   See full credits in the README.md file
+[16:45:21] -------------------------------------------------
+[16:45:21] 
+[16:45:21] Loading...
+[16:45:21] 
+[16:45:21] -------------------------------------------------
+[16:45:21]    ColAndreasv1.4.0
+[16:45:21] 
+[16:45:21]    Created By:
+[16:45:21]      [uL]Chris42O
+[16:45:21]      [uL]Slice
+[16:45:21]      [uL]Pottus
+[16:45:21] -------------------------------------------------
+[16:45:21] 
+[16:45:21] Loading...
+[16:45:21] ColAndreas v1.4.0 Loaded.
+[16:45:21]   Loaded.
+[16:45:21]  Loaded 2 plugins.
+
+[16:45:21] 
+[16:45:21] Filterscripts
+[16:45:21] ---------------
+[16:45:21]   Loaded 0 filterscripts.
+
+[16:45:21] No collision data found.
+[16:45:21]  Hello World!
+ 
+[16:45:21] Number of vehicle models: 0
+[16:45:48] [connection] 127.0.0.1:62478 requests connection cookie.
+[16:45:49] [connection] incoming connection: 127.0.0.1:62478 id: 0
+[16:45:49] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:51:52] [part] diogodeas1 has left the server (0:1)
+[16:53:07] [connection] 127.0.0.1:50160 requests connection cookie.
+[16:53:08] [connection] incoming connection: 127.0.0.1:50160 id: 0
+[16:53:08] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:54:30] [part] diogodeas1 has left the server (0:1)
+[16:54:36] --- Server Shutting Down.
+[16:54:36] 
+
+[16:54:36]  ===============================
+
+[16:54:36]      sscanf plugin unloaded.    
+
+[16:54:36]  ===============================
+
+[16:54:36] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:55:04] filterscripts = ""  (string)
+[16:55:04] 
+[16:55:04] Server Plugins
+[16:55:04] --------------
+[16:55:04]  Loading plugin: sscanf
+[16:55:04] 
+
+[16:55:04]  ===============================
+
+[16:55:04]       sscanf plugin loaded.     
+
+[16:55:04]          Version:  2.8.3        
+
+[16:55:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:55:04]  ===============================
+
+[16:55:04]   Loaded.
+[16:55:04]  Loading plugin: FCNPC
+[16:55:04] 
+[16:55:04] -------------------------------------------------
+[16:55:04]      FCNPC - Fully Controllable NPC v2.0.4
+[16:55:04]             Windows SA-MP 0.3.7 R2
+[16:55:04]            Nov 17 2021 at 02:36:40
+[16:55:04] 
+[16:55:04]   Author:       OrMisicL (2013 - 2015)
+[16:55:04]   Continued by: ziggi    (2016 - present)
+[16:55:04] 
+[16:55:04]   See full credits in the README.md file
+[16:55:04] -------------------------------------------------
+[16:55:04] 
+[16:55:04] Loading...
+[16:55:04] 
+[16:55:04] -------------------------------------------------
+[16:55:04]    ColAndreasv1.4.0
+[16:55:04] 
+[16:55:04]    Created By:
+[16:55:04]      [uL]Chris42O
+[16:55:04]      [uL]Slice
+[16:55:04]      [uL]Pottus
+[16:55:04] -------------------------------------------------
+[16:55:04] 
+[16:55:04] Loading...
+[16:55:04] ColAndreas v1.4.0 Loaded.
+[16:55:04]   Loaded.
+[16:55:04]  Loaded 2 plugins.
+
+[16:55:04] 
+[16:55:04] Filterscripts
+[16:55:04] ---------------
+[16:55:04]   Loaded 0 filterscripts.
+
+[16:55:05] No collision data found.
+[16:55:05]  Hello World!
+ 
+[16:55:05] Number of vehicle models: 0
+[16:55:28] [connection] 127.0.0.1:53207 requests connection cookie.
+[16:55:29] [connection] incoming connection: 127.0.0.1:53207 id: 0
+[16:55:29] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:58:22] [part] diogodeas1 has left the server (0:1)
+[17:02:18] --- Server Shutting Down.
+[17:02:18] 
+
+[17:02:18]  ===============================
+
+[17:02:18]      sscanf plugin unloaded.    
+
+[17:02:18]  ===============================
+
+[17:02:18] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:02:24] filterscripts = ""  (string)
+[17:02:24] 
+[17:02:24] Server Plugins
+[17:02:24] --------------
+[17:02:24]  Loading plugin: sscanf
+[17:02:24] 
+
+[17:02:24]  ===============================
+
+[17:02:24]       sscanf plugin loaded.     
+
+[17:02:24]          Version:  2.8.3        
+
+[17:02:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:02:24]  ===============================
+
+[17:02:24]   Loaded.
+[17:02:24]  Loading plugin: FCNPC
+[17:02:24] 
+[17:02:24] -------------------------------------------------
+[17:02:24]      FCNPC - Fully Controllable NPC v2.0.4
+[17:02:24]             Windows SA-MP 0.3.7 R2
+[17:02:24]            Nov 17 2021 at 02:36:40
+[17:02:24] 
+[17:02:24]   Author:       OrMisicL (2013 - 2015)
+[17:02:24]   Continued by: ziggi    (2016 - present)
+[17:02:24] 
+[17:02:24]   See full credits in the README.md file
+[17:02:24] -------------------------------------------------
+[17:02:24] 
+[17:02:24] Loading...
+[17:02:24] 
+[17:02:24] -------------------------------------------------
+[17:02:24]    ColAndreasv1.4.0
+[17:02:24] 
+[17:02:24]    Created By:
+[17:02:24]      [uL]Chris42O
+[17:02:24]      [uL]Slice
+[17:02:24]      [uL]Pottus
+[17:02:24] -------------------------------------------------
+[17:02:24] 
+[17:02:24] Loading...
+[17:02:24] ColAndreas v1.4.0 Loaded.
+[17:02:24]   Loaded.
+[17:02:24]  Loaded 2 plugins.
+
+[17:02:24] 
+[17:02:24] Filterscripts
+[17:02:24] ---------------
+[17:02:24]   Loaded 0 filterscripts.
+
+[17:02:24] No collision data found.
+[17:02:24]  Hello World!
+ 
+[17:02:24] Number of vehicle models: 0
+[17:02:46] [connection] 127.0.0.1:59504 requests connection cookie.
+[17:02:47] [connection] incoming connection: 127.0.0.1:59504 id: 0
+[17:02:48] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[17:16:25] [part] diogodeas1 has left the server (0:1)
+[17:16:29] --- Server Shutting Down.
+[17:16:29] 
+
+[17:16:29]  ===============================
+
+[17:16:29]      sscanf plugin unloaded.    
+
+[17:16:29]  ===============================
+
+[17:16:29] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:16:33] filterscripts = ""  (string)
+[17:16:33] 
+[17:16:33] Server Plugins
+[17:16:33] --------------
+[17:16:33]  Loading plugin: sscanf
+[17:16:33] 
+
+[17:16:33]  ===============================
+
+[17:16:33]       sscanf plugin loaded.     
+
+[17:16:33]          Version:  2.8.3        
+
+[17:16:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:16:33]  ===============================
+
+[17:16:33]   Loaded.
+[17:16:33]  Loading plugin: FCNPC
+[17:16:33] 
+[17:16:33] -------------------------------------------------
+[17:16:33]      FCNPC - Fully Controllable NPC v2.0.4
+[17:16:33]             Windows SA-MP 0.3.7 R2
+[17:16:33]            Nov 17 2021 at 02:36:40
+[17:16:33] 
+[17:16:33]   Author:       OrMisicL (2013 - 2015)
+[17:16:33]   Continued by: ziggi    (2016 - present)
+[17:16:33] 
+[17:16:33]   See full credits in the README.md file
+[17:16:33] -------------------------------------------------
+[17:16:33] 
+[17:16:33] Loading...
+[17:16:33] 
+[17:16:33] -------------------------------------------------
+[17:16:33]    ColAndreasv1.4.0
+[17:16:33] 
+[17:16:33]    Created By:
+[17:16:33]      [uL]Chris42O
+[17:16:33]      [uL]Slice
+[17:16:33]      [uL]Pottus
+[17:16:33] -------------------------------------------------
+[17:16:33] 
+[17:16:33] Loading...
+[17:16:33] ColAndreas v1.4.0 Loaded.
+[17:16:33]   Loaded.
+[17:16:33]  Loaded 2 plugins.
+
+[17:16:33] 
+[17:16:33] Filterscripts
+[17:16:33] ---------------
+[17:16:33]   Loaded 0 filterscripts.
+
+[17:16:33] No collision data found.
+[17:16:33]  Hello World!
+ 
+[17:16:33] Number of vehicle models: 0
+[17:16:58] [connection] 127.0.0.1:56438 requests connection cookie.
+[17:16:59] [connection] incoming connection: 127.0.0.1:56438 id: 0
+[17:16:59] [join] diogodeas1 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:52:58] filterscripts = ""  (string)
+[18:52:58] 
+[18:52:58] Server Plugins
+[18:52:58] --------------
+[18:52:58]  Loading plugin: sscanf
+[18:52:58] 
+
+[18:52:58]  ===============================
+
+[18:52:58]       sscanf plugin loaded.     
+
+[18:52:58]          Version:  2.8.3        
+
+[18:52:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:52:58]  ===============================
+
+[18:52:58]   Loaded.
+[18:52:58]  Loading plugin: FCNPC
+[18:52:58] 
+[18:52:58] -------------------------------------------------
+[18:52:58]      FCNPC - Fully Controllable NPC v2.0.4
+[18:52:58]             Windows SA-MP 0.3.7 R2
+[18:52:58]            Nov 17 2021 at 02:36:40
+[18:52:58] 
+[18:52:58]   Author:       OrMisicL (2013 - 2015)
+[18:52:58]   Continued by: ziggi    (2016 - present)
+[18:52:58] 
+[18:52:58]   See full credits in the README.md file
+[18:52:58] -------------------------------------------------
+[18:52:58] 
+[18:52:58] Loading...
+[18:52:58] 
+[18:52:58] -------------------------------------------------
+[18:52:58]    ColAndreasv1.4.0
+[18:52:58] 
+[18:52:58]    Created By:
+[18:52:58]      [uL]Chris42O
+[18:52:58]      [uL]Slice
+[18:52:58]      [uL]Pottus
+[18:52:58] -------------------------------------------------
+[18:52:58] 
+[18:52:58] Loading...
+[18:52:58] ColAndreas v1.4.0 Loaded.
+[18:52:58]   Loaded.
+[18:52:58]  Loaded 2 plugins.
+
+[18:52:59] 
+[18:52:59] Filterscripts
+[18:52:59] ---------------
+[18:52:59]   Loaded 0 filterscripts.
+
+[18:52:59] No collision data found.
+[18:52:59]  Hello World!
+ 
+[18:52:59] Number of vehicle models: 0
+[18:53:57] [connection] 127.0.0.1:55586 requests connection cookie.
+[18:53:58] [connection] incoming connection: 127.0.0.1:55586 id: 0
+[18:53:58] [join] diogodeas1 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:59:47] filterscripts = ""  (string)
+[15:59:47] 
+[15:59:47] Server Plugins
+[15:59:47] --------------
+[15:59:47]  Loading plugin: sscanf
+[15:59:47] 
+
+[15:59:47]  ===============================
+
+[15:59:47]       sscanf plugin loaded.     
+
+[15:59:47]          Version:  2.8.3        
+
+[15:59:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:59:47]  ===============================
+
+[15:59:47]   Loaded.
+[15:59:47]  Loading plugin: FCNPC
+[15:59:47] 
+[15:59:47] -------------------------------------------------
+[15:59:47]      FCNPC - Fully Controllable NPC v2.0.4
+[15:59:47]             Windows SA-MP 0.3.7 R2
+[15:59:47]            Nov 17 2021 at 02:36:40
+[15:59:47] 
+[15:59:47]   Author:       OrMisicL (2013 - 2015)
+[15:59:47]   Continued by: ziggi    (2016 - present)
+[15:59:47] 
+[15:59:47]   See full credits in the README.md file
+[15:59:47] -------------------------------------------------
+[15:59:47] 
+[15:59:47] Loading...
+[15:59:47] 
+[15:59:47] -------------------------------------------------
+[15:59:47]    ColAndreasv1.4.0
+[15:59:47] 
+[15:59:47]    Created By:
+[15:59:47]      [uL]Chris42O
+[15:59:47]      [uL]Slice
+[15:59:47]      [uL]Pottus
+[15:59:47] -------------------------------------------------
+[15:59:47] 
+[15:59:47] Loading...
+[15:59:47] ColAndreas v1.4.0 Loaded.
+[15:59:47]   Loaded.
+[15:59:47]  Loaded 2 plugins.
+
+[15:59:47] 
+[15:59:47] Filterscripts
+[15:59:47] ---------------
+[15:59:47]   Loaded 0 filterscripts.
+
+[15:59:47] No collision data found.
+[15:59:47]  Hello World!
+ 
+[15:59:47] Number of vehicle models: 0
+[16:03:56] [connection] 127.0.0.1:64455 requests connection cookie.
+[16:03:57] [connection] incoming connection: 127.0.0.1:64455 id: 0
+[16:04:14] [connection] incoming connection: 127.0.0.1:62197 id: 0
+[16:04:14] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:13:47] [part] diogodeas1 has left the server (0:1)
+[16:15:37] --- Server Shutting Down.
+[16:15:37] 
+
+[16:15:37]  ===============================
+
+[16:15:37]      sscanf plugin unloaded.    
+
+[16:15:37]  ===============================
+
+[16:15:37] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:15:42] filterscripts = ""  (string)
+[16:15:42] 
+[16:15:42] Server Plugins
+[16:15:42] --------------
+[16:15:42]  Loading plugin: sscanf
+[16:15:42] 
+
+[16:15:42]  ===============================
+
+[16:15:42]       sscanf plugin loaded.     
+
+[16:15:42]          Version:  2.8.3        
+
+[16:15:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:15:42]  ===============================
+
+[16:15:42]   Loaded.
+[16:15:42]  Loading plugin: FCNPC
+[16:15:42] 
+[16:15:42] -------------------------------------------------
+[16:15:42]      FCNPC - Fully Controllable NPC v2.0.4
+[16:15:42]             Windows SA-MP 0.3.7 R2
+[16:15:42]            Nov 17 2021 at 02:36:40
+[16:15:42] 
+[16:15:42]   Author:       OrMisicL (2013 - 2015)
+[16:15:42]   Continued by: ziggi    (2016 - present)
+[16:15:42] 
+[16:15:42]   See full credits in the README.md file
+[16:15:42] -------------------------------------------------
+[16:15:42] 
+[16:15:42] Loading...
+[16:15:42] 
+[16:15:42] -------------------------------------------------
+[16:15:42]    ColAndreasv1.4.0
+[16:15:42] 
+[16:15:42]    Created By:
+[16:15:42]      [uL]Chris42O
+[16:15:42]      [uL]Slice
+[16:15:42]      [uL]Pottus
+[16:15:42] -------------------------------------------------
+[16:15:42] 
+[16:15:42] Loading...
+[16:15:42] ColAndreas v1.4.0 Loaded.
+[16:15:42]   Loaded.
+[16:15:42]  Loaded 2 plugins.
+
+[16:15:42] 
+[16:15:42] Filterscripts
+[16:15:42] ---------------
+[16:15:42]   Loaded 0 filterscripts.
+
+[16:15:42] No collision data found.
+[16:15:42]  Hello World!
+ 
+[16:15:42] Number of vehicle models: 0
+[16:16:06] [connection] 127.0.0.1:63342 requests connection cookie.
+[16:16:07] [connection] incoming connection: 127.0.0.1:63342 id: 0
+[16:16:07] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:16:29] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[16:17:41] [part] diogodeas1 has left the server (0:1)
+[16:17:47] --- Server Shutting Down.
+[16:17:47] 
+
+[16:17:47]  ===============================
+
+[16:17:47]      sscanf plugin unloaded.    
+
+[16:17:47]  ===============================
+
+[16:17:47] [FCNPC] Info: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:23:48] filterscripts = ""  (string)
+[16:23:48] 
+[16:23:48] Server Plugins
+[16:23:48] --------------
+[16:23:48]  Loading plugin: sscanf
+[16:23:48] 
+
+[16:23:48]  ===============================
+
+[16:23:48]       sscanf plugin loaded.     
+
+[16:23:48]          Version:  2.8.3        
+
+[16:23:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:23:48]  ===============================
+
+[16:23:48]   Loaded.
+[16:23:48]  Loading plugin: FCNPC
+[16:23:48] 
+[16:23:48] -------------------------------------------------
+[16:23:48]      FCNPC - Fully Controllable NPC v2.0.4
+[16:23:48]             Windows SA-MP 0.3.7 R2
+[16:23:48]            Nov 17 2021 at 02:36:40
+[16:23:48] 
+[16:23:48]   Author:       OrMisicL (2013 - 2015)
+[16:23:48]   Continued by: ziggi    (2016 - present)
+[16:23:48] 
+[16:23:48]   See full credits in the README.md file
+[16:23:48] -------------------------------------------------
+[16:23:48] 
+[16:23:48] Loading...
+[16:23:48] 
+[16:23:48] -------------------------------------------------
+[16:23:48]    ColAndreasv1.4.0
+[16:23:48] 
+[16:23:48]    Created By:
+[16:23:48]      [uL]Chris42O
+[16:23:48]      [uL]Slice
+[16:23:48]      [uL]Pottus
+[16:23:48] -------------------------------------------------
+[16:23:48] 
+[16:23:48] Loading...
+[16:23:48] ColAndreas v1.4.0 Loaded.
+[16:23:48]   Loaded.
+[16:23:48]  Loaded 2 plugins.
+
+[16:23:49] 
+[16:23:49] Filterscripts
+[16:23:49] ---------------
+[16:23:49]   Loaded 0 filterscripts.
+
+[16:23:49] No collision data found.
+[16:23:49]  Hello World!
+ 
+[16:23:49] Number of vehicle models: 0
+[16:24:10] [connection] 127.0.0.1:52610 requests connection cookie.
+[16:24:11] [connection] incoming connection: 127.0.0.1:52610 id: 0
+[16:24:11] [join] diogodeas1 has joined the server (0:127.0.0.1)
+[16:34:44] [part] diogodeas1 has left the server (0:1)
+[16:36:19] --- Server Shutting Down.
+[16:36:19] 
+
+[16:36:19]  ===============================
+
+[16:36:19]      sscanf plugin unloaded.    
+
+[16:36:19]  ===============================
+

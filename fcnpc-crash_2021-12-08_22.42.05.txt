@@ -1,0 +1,44 @@
+=========================== FCNPC Exception Handler ============================
+Address: 0x554ef64e
+
+Registers:
+EAX: 0x0 - EBX: 0x0 - ECX: 0x0 - EDX: 0x0
+ESI: 0x2358dc4 - EDI: 0x2358f70 - EBP: 0x19fe0c - ESP: 0x19fe08
+
+Stack:
+0x0: 0x0 - 0x4: 0x772b0f00 - 0x8: 0x469a66 - 0xC: 0x772b30d0 - 0x10: 0x772b3080 - 0x14: 0x48d4db
+0x18: 0x0 - 0x1C: 0x23f0 - 0x20: 0x19ff70
+
+Information:
+  System: Windows
+  SA-MP: 0.3.7 R2
+  FCNPC: 2.0.4
+
+Functions:
+  FUNC_CPlayerPool__DeletePlayer: 0x0
+  FUNC_CPlayer__Kill: 0x0
+  FUNC_CPlayer__EnterVehicle: 0x0
+  FUNC_CPlayer__ExitVehicle: 0x0
+  FUNC_CPlayer__SpawnForWorld: 0x0
+  FUNC_GetVehicleModelInfo: 0x0
+  FUNC_CConsole__GetIntVariable: 0x0
+  FUNC_ClientJoin_RPC: 0x0
+
+Pointers:
+  VAR_ServerAuthentication: 0x0
+  VAR_NetVersion: 0x0
+
+Offsets:
+  OFFSET_RemoteSystemManager: 0x0
+  OFFSET_RemoteSystemSize: 0x0
+  OFFSET_RemoteSystem__ConnectMode: 0x0
+  OFFSET_RemoteSystem__Unknown: 0x0
+
+Callbacks:
+  FUNC_CGameMode__OnPlayerGiveDamage: 0x0
+  FUNC_CGameMode__OnPlayerTakeDamage: 0x0
+  FUNC_CGameMode__OnPlayerWeaponShot: 0x0
+  FUNC_CGameMode__OnPlayerStreamIn: 0x0
+  FUNC_CGameMode__OnPlayerStreamOut: 0x0
+  FUNC_CGameMode__OnGameModeExit: 0x0
+=========================== FCNPC Exception Handler ============================
